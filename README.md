@@ -28,7 +28,7 @@ To overcome these limitations, we present a novel **AI-based automated zoom and 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e26b0afa-b9df-4537-9747-c1bde31f3ea4" alt="Implementation Diagram" width="500"/>
   <br>
-  <em>Figure: System implementation of the AI-driven zoom and focus control mechanism.</em>
+  <em>Figure: System implementation of the AI-driven zoom and focus control mechanism using ROI.</em>
 </p>
 
 
