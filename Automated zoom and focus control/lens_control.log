@@ -1,0 +1,2013 @@
+2025-05-12 17:31:51,438 - Connecting to device 0
+2025-05-12 17:31:52,810 - Device connected successfully
+2025-05-12 17:31:52,810 - An error occurred: ZoomSpeedChange() takes 0 positional arguments but 1 was given
+2025-05-12 17:31:52,811 - Device disconnected
+2025-05-12 17:32:16,290 - Connecting to device 0
+2025-05-12 17:32:17,672 - Device connected successfully
+2025-05-12 17:32:17,672 - An error occurred: ZoomSpeedChange() takes 0 positional arguments but 1 was given
+2025-05-12 17:32:17,673 - Device disconnected
+2025-05-12 17:35:55,873 - Connecting to device 0
+2025-05-12 17:35:57,246 - Device connected successfully
+2025-05-12 17:36:19,354 - Set zoom speed (default or max)
+2025-05-12 17:36:26,307 - Set focus speed (default or max)
+2025-05-12 17:36:26,308 - Loaded 164 zoom and focus value pairs from generator
+2025-05-12 17:36:26,325 - Step 1/164
+2025-05-12 17:36:26,325 - Moving zoom to address: 4111
+2025-05-12 17:36:33,825 - Current zoom address: 4111
+2025-05-12 17:36:33,825 - Moving focus to address: 5159
+2025-05-12 17:36:36,124 - Current focus address: 5159
+2025-05-12 17:36:36,325 - Step 2/164
+2025-05-12 17:36:36,325 - Moving zoom to address: 4195
+2025-05-12 17:36:36,846 - Current zoom address: 4195
+2025-05-12 17:36:36,846 - Moving focus to address: 5139
+2025-05-12 17:36:37,473 - Current focus address: 5139
+2025-05-12 17:36:37,674 - Step 3/164
+2025-05-12 17:36:37,674 - Moving zoom to address: 4280
+2025-05-12 17:36:38,194 - Current zoom address: 4280
+2025-05-12 17:36:38,194 - Moving focus to address: 5139
+2025-05-12 17:36:40,491 - Current focus address: 5139
+2025-05-12 17:36:40,692 - Step 4/164
+2025-05-12 17:36:40,692 - Moving zoom to address: 4364
+2025-05-12 17:36:41,219 - Current zoom address: 4364
+2025-05-12 17:36:41,220 - Moving focus to address: 5119
+2025-05-12 17:36:41,846 - Current focus address: 5119
+2025-05-12 17:36:42,047 - Step 5/164
+2025-05-12 17:36:42,047 - Moving zoom to address: 4449
+2025-05-12 17:36:42,572 - Current zoom address: 4449
+2025-05-12 17:36:42,572 - Moving focus to address: 5099
+2025-05-12 17:36:43,199 - Current focus address: 5099
+2025-05-12 17:36:43,402 - Step 6/164
+2025-05-12 17:36:43,403 - Moving zoom to address: 4534
+2025-05-12 17:36:43,926 - Current zoom address: 4534
+2025-05-12 17:36:43,927 - Moving focus to address: 5080
+2025-05-12 17:36:44,555 - Current focus address: 5080
+2025-05-12 17:36:44,756 - Step 7/164
+2025-05-12 17:36:44,756 - Moving zoom to address: 4618
+2025-05-12 17:36:45,278 - Current zoom address: 4618
+2025-05-12 17:36:45,278 - Moving focus to address: 5060
+2025-05-12 17:36:45,905 - Current focus address: 5060
+2025-05-12 17:36:46,106 - Step 8/164
+2025-05-12 17:36:46,106 - Moving zoom to address: 4703
+2025-05-12 17:36:46,626 - Current zoom address: 4703
+2025-05-12 17:36:46,626 - Moving focus to address: 5060
+2025-05-12 17:36:48,922 - Current focus address: 5060
+2025-05-12 17:36:49,123 - Step 9/164
+2025-05-12 17:36:49,123 - Moving zoom to address: 4788
+2025-05-12 17:36:49,643 - Current zoom address: 4788
+2025-05-12 17:36:49,643 - Moving focus to address: 5040
+2025-05-12 17:36:50,271 - Current focus address: 5040
+2025-05-12 17:36:50,473 - Step 10/164
+2025-05-12 17:36:50,473 - Moving zoom to address: 4872
+2025-05-12 17:36:50,997 - Current zoom address: 4872
+2025-05-12 17:36:50,997 - Moving focus to address: 5021
+2025-05-12 17:36:51,625 - Current focus address: 5021
+2025-05-12 17:36:51,826 - Step 11/164
+2025-05-12 17:36:51,827 - Moving zoom to address: 4957
+2025-05-12 17:36:52,346 - Current zoom address: 4957
+2025-05-12 17:36:52,346 - Moving focus to address: 5001
+2025-05-12 17:36:52,978 - Current focus address: 5001
+2025-05-12 17:36:53,205 - Step 12/164
+2025-05-12 17:36:53,211 - Moving zoom to address: 5042
+2025-05-12 17:36:53,736 - Current zoom address: 5042
+2025-05-12 17:36:53,737 - Moving focus to address: 4981
+2025-05-12 17:36:54,366 - Current focus address: 4981
+2025-05-12 17:36:54,573 - Step 13/164
+2025-05-12 17:36:54,574 - Moving zoom to address: 5126
+2025-05-12 17:36:55,096 - Current zoom address: 5126
+2025-05-12 17:36:55,096 - Moving focus to address: 4962
+2025-05-12 17:36:55,725 - Current focus address: 4962
+2025-05-12 17:36:55,926 - Step 14/164
+2025-05-12 17:36:55,926 - Moving zoom to address: 5211
+2025-05-12 17:36:56,446 - Current zoom address: 5211
+2025-05-12 17:36:56,446 - Moving focus to address: 4962
+2025-05-12 17:36:58,739 - Current focus address: 4962
+2025-05-12 17:36:58,940 - Step 15/164
+2025-05-12 17:36:58,941 - Moving zoom to address: 5296
+2025-05-12 17:36:59,461 - Current zoom address: 5296
+2025-05-12 17:36:59,461 - Moving focus to address: 4942
+2025-05-12 17:37:00,090 - Current focus address: 4942
+2025-05-12 17:37:00,292 - Step 16/164
+2025-05-12 17:37:00,292 - Moving zoom to address: 5380
+2025-05-12 17:37:00,814 - Current zoom address: 5380
+2025-05-12 17:37:00,814 - Moving focus to address: 4922
+2025-05-12 17:37:01,444 - Current focus address: 4922
+2025-05-12 17:37:01,645 - Step 17/164
+2025-05-12 17:37:01,645 - Moving zoom to address: 5465
+2025-05-12 17:37:02,169 - Current zoom address: 5465
+2025-05-12 17:37:02,170 - Moving focus to address: 4903
+2025-05-12 17:37:02,795 - Current focus address: 4903
+2025-05-12 17:37:02,996 - Step 18/164
+2025-05-12 17:37:02,997 - Moving zoom to address: 5550
+2025-05-12 17:37:03,522 - Current zoom address: 5550
+2025-05-12 17:37:03,523 - Moving focus to address: 4883
+2025-05-12 17:37:04,149 - Current focus address: 4883
+2025-05-12 17:37:04,355 - Step 19/164
+2025-05-12 17:37:04,356 - Moving zoom to address: 5634
+2025-05-12 17:37:04,877 - Current zoom address: 5634
+2025-05-12 17:37:04,877 - Moving focus to address: 4883
+2025-05-12 17:37:07,226 - Current focus address: 4883
+2025-05-12 17:37:07,427 - Step 20/164
+2025-05-12 17:37:07,428 - Moving zoom to address: 5719
+2025-05-12 17:37:07,948 - Current zoom address: 5719
+2025-05-12 17:37:07,949 - Moving focus to address: 4863
+2025-05-12 17:37:08,577 - Current focus address: 4863
+2025-05-12 17:37:08,778 - Step 21/164
+2025-05-12 17:37:08,779 - Moving zoom to address: 5804
+2025-05-12 17:37:09,299 - Current zoom address: 5804
+2025-05-12 17:37:09,302 - Moving focus to address: 4844
+2025-05-12 17:37:09,926 - Current focus address: 4844
+2025-05-12 17:37:10,127 - Step 22/164
+2025-05-12 17:37:10,128 - Moving zoom to address: 5888
+2025-05-12 17:37:10,649 - Current zoom address: 5888
+2025-05-12 17:37:10,653 - Moving focus to address: 4824
+2025-05-12 17:37:11,278 - Current focus address: 4824
+2025-05-12 17:37:11,479 - Step 23/164
+2025-05-12 17:37:11,479 - Moving zoom to address: 5973
+2025-05-12 17:37:11,999 - Current zoom address: 5973
+2025-05-12 17:37:12,002 - Moving focus to address: 4804
+2025-05-12 17:37:12,628 - Current focus address: 4804
+2025-05-12 17:37:12,829 - Step 24/164
+2025-05-12 17:37:12,829 - Moving zoom to address: 6058
+2025-05-12 17:37:13,352 - Current zoom address: 6058
+2025-05-12 17:37:13,353 - Moving focus to address: 4785
+2025-05-12 17:37:13,982 - Current focus address: 4785
+2025-05-12 17:37:14,189 - Step 25/164
+2025-05-12 17:37:14,190 - Moving zoom to address: 6142
+2025-05-12 17:37:14,711 - Current zoom address: 6142
+2025-05-12 17:37:14,711 - Moving focus to address: 4765
+2025-05-12 17:37:29,521 - Connecting to device 0
+2025-05-12 17:37:30,887 - Device connected successfully
+2025-05-12 17:37:37,376 - Set zoom speed (default or max)
+2025-05-12 17:37:46,704 - Set focus speed (default or max)
+2025-05-12 17:37:46,705 - Loaded 164 zoom and focus value pairs from generator
+2025-05-12 17:37:46,707 - Step 1/164
+2025-05-12 17:37:46,707 - Moving zoom to address: 4111
+2025-05-12 17:37:48,278 - Current zoom address: 4111
+2025-05-12 17:37:48,278 - Moving focus to address: 5159
+2025-05-12 17:37:48,903 - Current focus address: 5159
+2025-05-12 17:37:49,104 - Step 2/164
+2025-05-12 17:37:49,104 - Moving zoom to address: 4195
+2025-05-12 17:37:49,624 - Current zoom address: 4195
+2025-05-12 17:37:49,624 - Moving focus to address: 5139
+2025-05-12 17:37:50,248 - Current focus address: 5139
+2025-05-12 17:37:50,451 - Step 3/164
+2025-05-12 17:37:50,453 - Moving zoom to address: 4280
+2025-05-12 17:37:50,975 - Current zoom address: 4280
+2025-05-12 17:37:50,975 - Moving focus to address: 5139
+2025-05-12 17:37:53,309 - Current focus address: 5139
+2025-05-12 17:37:53,509 - Step 4/164
+2025-05-12 17:37:53,510 - Moving zoom to address: 4364
+2025-05-12 17:37:54,028 - Current zoom address: 4364
+2025-05-12 17:37:54,029 - Moving focus to address: 5119
+2025-05-12 17:37:54,653 - Current focus address: 5119
+2025-05-12 17:37:54,854 - Step 5/164
+2025-05-12 17:37:54,854 - Moving zoom to address: 4449
+2025-05-12 17:37:55,375 - Current zoom address: 4449
+2025-05-12 17:37:55,375 - Moving focus to address: 5099
+2025-05-12 17:37:56,002 - Current focus address: 5099
+2025-05-12 17:37:56,204 - Step 6/164
+2025-05-12 17:37:56,205 - Moving zoom to address: 4534
+2025-05-12 17:37:56,725 - Current zoom address: 4534
+2025-05-12 17:37:56,725 - Moving focus to address: 5080
+2025-05-12 17:37:57,355 - Current focus address: 5080
+2025-05-12 17:37:57,556 - Step 7/164
+2025-05-12 17:37:57,557 - Moving zoom to address: 4618
+2025-05-12 17:37:58,076 - Current zoom address: 4618
+2025-05-12 17:37:58,076 - Moving focus to address: 5060
+2025-05-12 17:37:58,704 - Current focus address: 5060
+2025-05-12 17:37:58,906 - Step 8/164
+2025-05-12 17:37:58,906 - Moving zoom to address: 4703
+2025-05-12 17:37:59,426 - Current zoom address: 4703
+2025-05-12 17:37:59,426 - Moving focus to address: 5060
+2025-05-12 17:38:01,728 - Current focus address: 5060
+2025-05-12 17:38:01,929 - Step 9/164
+2025-05-12 17:38:01,930 - Moving zoom to address: 4788
+2025-05-12 17:38:02,451 - Current zoom address: 4788
+2025-05-12 17:38:02,452 - Moving focus to address: 5040
+2025-05-12 17:38:03,079 - Current focus address: 5040
+2025-05-12 17:38:03,279 - Step 10/164
+2025-05-12 17:38:03,280 - Moving zoom to address: 4872
+2025-05-12 17:38:03,809 - Current zoom address: 4872
+2025-05-12 17:38:03,809 - Moving focus to address: 5021
+2025-05-12 17:38:04,455 - Current focus address: 5021
+2025-05-12 17:38:04,656 - Step 11/164
+2025-05-12 17:38:04,657 - Moving zoom to address: 4957
+2025-05-12 17:38:05,177 - Current zoom address: 4957
+2025-05-12 17:38:05,177 - Moving focus to address: 5001
+2025-05-12 17:38:05,806 - Current focus address: 5001
+2025-05-12 17:38:06,007 - Step 12/164
+2025-05-12 17:38:06,008 - Moving zoom to address: 5042
+2025-05-12 17:38:06,529 - Current zoom address: 5042
+2025-05-12 17:38:06,529 - Moving focus to address: 4981
+2025-05-12 17:38:07,157 - Current focus address: 4981
+2025-05-12 17:38:07,360 - Step 13/164
+2025-05-12 17:38:07,361 - Moving zoom to address: 5126
+2025-05-12 17:38:07,881 - Current zoom address: 5126
+2025-05-12 17:38:07,882 - Moving focus to address: 4962
+2025-05-12 17:38:08,562 - Current focus address: 4962
+2025-05-12 17:38:08,763 - Step 14/164
+2025-05-12 17:38:08,764 - Moving zoom to address: 5211
+2025-05-12 17:38:09,286 - Current zoom address: 5211
+2025-05-12 17:38:09,288 - Moving focus to address: 4962
+2025-05-12 17:39:51,537 - Connecting to device 0
+2025-05-12 17:39:52,907 - Device connected successfully
+2025-05-12 17:39:59,011 - Set zoom speed (default or max)
+2025-05-12 17:40:01,496 - Set focus speed (default or max)
+2025-05-12 17:40:01,497 - Generated 164 zoom and focus value pairs
+2025-05-12 17:40:01,498 - Loaded 164 zoom and focus value pairs from generator
+2025-05-12 17:40:01,504 - Step 1/164
+2025-05-12 17:40:01,505 - Moving zoom to address: 4111
+2025-05-12 17:40:02,661 - Current zoom address: 4111
+2025-05-12 17:40:02,661 - Moving focus to address: 5159
+2025-05-12 17:40:03,289 - Current focus address: 5159
+2025-05-12 17:40:03,490 - Step 2/164
+2025-05-12 17:40:03,490 - Moving zoom to address: 4195
+2025-05-12 17:40:04,012 - Current zoom address: 4195
+2025-05-12 17:40:04,012 - Moving focus to address: 5139
+2025-05-12 17:40:04,641 - Current focus address: 5139
+2025-05-12 17:40:04,842 - Step 3/164
+2025-05-12 17:40:04,843 - Moving zoom to address: 4280
+2025-05-12 17:40:05,364 - Current zoom address: 4280
+2025-05-12 17:40:05,364 - Moving focus to address: 5139
+2025-05-12 17:40:07,662 - Current focus address: 5139
+2025-05-12 17:40:07,863 - Step 4/164
+2025-05-12 17:40:07,864 - Moving zoom to address: 4364
+2025-05-12 17:40:08,384 - Current zoom address: 4364
+2025-05-12 17:40:08,385 - Moving focus to address: 5119
+2025-05-12 17:40:09,011 - Current focus address: 5119
+2025-05-12 17:40:09,212 - Step 5/164
+2025-05-12 17:40:09,212 - Moving zoom to address: 4449
+2025-05-12 17:40:09,736 - Current zoom address: 4449
+2025-05-12 17:40:09,737 - Moving focus to address: 5099
+2025-05-12 17:40:10,364 - Current focus address: 5099
+2025-05-12 17:40:10,565 - Step 6/164
+2025-05-12 17:40:10,566 - Moving zoom to address: 4534
+2025-05-12 17:40:11,089 - Current zoom address: 4534
+2025-05-12 17:40:11,090 - Moving focus to address: 5080
+2025-05-12 17:40:11,722 - Current focus address: 5080
+2025-05-12 17:40:11,923 - Step 7/164
+2025-05-12 17:40:11,924 - Moving zoom to address: 4618
+2025-05-12 17:40:12,446 - Current zoom address: 4618
+2025-05-12 17:40:12,446 - Moving focus to address: 5060
+2025-05-12 17:40:13,073 - Current focus address: 5060
+2025-05-12 17:40:13,274 - Step 8/164
+2025-05-12 17:40:13,274 - Moving zoom to address: 4703
+2025-05-12 17:40:13,793 - Current zoom address: 4703
+2025-05-12 17:40:13,794 - Moving focus to address: 5060
+2025-05-12 17:40:16,088 - Current focus address: 5060
+2025-05-12 17:40:16,288 - Step 9/164
+2025-05-12 17:40:16,289 - Moving zoom to address: 4788
+2025-05-12 17:40:16,812 - Current zoom address: 4788
+2025-05-12 17:40:16,812 - Moving focus to address: 5040
+2025-05-12 17:40:17,443 - Current focus address: 5040
+2025-05-12 17:40:17,643 - Step 10/164
+2025-05-12 17:40:17,644 - Moving zoom to address: 4872
+2025-05-12 17:40:18,163 - Current zoom address: 4872
+2025-05-12 17:40:18,164 - Moving focus to address: 5021
+2025-05-12 17:40:18,791 - Current focus address: 5021
+2025-05-12 17:40:18,992 - Step 11/164
+2025-05-12 17:40:18,993 - Moving zoom to address: 4957
+2025-05-12 17:40:19,513 - Current zoom address: 4957
+2025-05-12 17:40:19,514 - Moving focus to address: 5001
+2025-05-12 17:40:20,151 - Current focus address: 5001
+2025-05-12 17:40:20,353 - Step 12/164
+2025-05-12 17:40:20,353 - Moving zoom to address: 5042
+2025-05-12 17:40:20,872 - Current zoom address: 5042
+2025-05-12 17:40:20,873 - Moving focus to address: 4981
+2025-05-12 17:40:21,503 - Current focus address: 4981
+2025-05-12 17:40:21,704 - Step 13/164
+2025-05-12 17:40:21,704 - Moving zoom to address: 5126
+2025-05-12 17:40:22,225 - Current zoom address: 5126
+2025-05-12 17:40:22,226 - Moving focus to address: 4962
+2025-05-12 17:40:22,857 - Current focus address: 4962
+2025-05-12 17:40:23,059 - Step 14/164
+2025-05-12 17:40:23,060 - Moving zoom to address: 5211
+2025-05-12 17:40:23,580 - Current zoom address: 5211
+2025-05-12 17:40:23,580 - Moving focus to address: 4962
+2025-05-12 17:40:25,885 - Current focus address: 4962
+2025-05-12 17:40:26,086 - Step 15/164
+2025-05-12 17:40:26,087 - Moving zoom to address: 5296
+2025-05-12 17:40:26,610 - Current zoom address: 5296
+2025-05-12 17:40:26,611 - Moving focus to address: 4942
+2025-05-12 17:40:27,255 - Current focus address: 4942
+2025-05-12 17:40:27,456 - Step 16/164
+2025-05-12 17:40:27,456 - Moving zoom to address: 5380
+2025-05-12 17:40:27,976 - Current zoom address: 5380
+2025-05-12 17:40:27,977 - Moving focus to address: 4922
+2025-05-12 17:40:28,606 - Current focus address: 4922
+2025-05-12 17:40:28,807 - Step 17/164
+2025-05-12 17:40:28,808 - Moving zoom to address: 5465
+2025-05-12 17:40:29,328 - Current zoom address: 5465
+2025-05-12 17:40:29,329 - Moving focus to address: 4903
+2025-05-12 17:40:29,955 - Current focus address: 4903
+2025-05-12 17:40:30,156 - Step 18/164
+2025-05-12 17:40:30,157 - Moving zoom to address: 5550
+2025-05-12 17:40:30,678 - Current zoom address: 5550
+2025-05-12 17:40:30,678 - Moving focus to address: 4883
+2025-05-12 17:40:31,306 - Current focus address: 4883
+2025-05-12 17:40:31,507 - Step 19/164
+2025-05-12 17:40:31,508 - Moving zoom to address: 5634
+2025-05-12 17:40:32,029 - Current zoom address: 5634
+2025-05-12 17:40:32,029 - Moving focus to address: 4883
+2025-05-12 17:40:34,326 - Current focus address: 4883
+2025-05-12 17:40:34,527 - Step 20/164
+2025-05-12 17:40:34,528 - Moving zoom to address: 5719
+2025-05-12 17:40:35,052 - Current zoom address: 5719
+2025-05-12 17:40:35,053 - Moving focus to address: 4863
+2025-05-12 17:40:35,679 - Current focus address: 4863
+2025-05-12 17:40:35,880 - Step 21/164
+2025-05-12 17:40:35,880 - Moving zoom to address: 5804
+2025-05-12 17:40:36,403 - Current zoom address: 5804
+2025-05-12 17:40:36,404 - Moving focus to address: 4844
+2025-05-12 17:40:37,038 - Current focus address: 4844
+2025-05-12 17:40:37,239 - Step 22/164
+2025-05-12 17:40:37,240 - Moving zoom to address: 5888
+2025-05-12 17:40:37,760 - Current zoom address: 5888
+2025-05-12 17:40:37,761 - Moving focus to address: 4824
+2025-05-12 17:40:38,391 - Current focus address: 4824
+2025-05-12 17:40:38,592 - Step 23/164
+2025-05-12 17:40:38,593 - Moving zoom to address: 5973
+2025-05-12 17:40:39,114 - Current zoom address: 5973
+2025-05-12 17:40:39,114 - Moving focus to address: 4804
+2025-05-12 17:40:39,741 - Current focus address: 4804
+2025-05-12 17:40:39,942 - Step 24/164
+2025-05-12 17:40:39,943 - Moving zoom to address: 6058
+2025-05-12 17:40:40,463 - Current zoom address: 6058
+2025-05-12 17:40:40,463 - Moving focus to address: 4785
+2025-05-12 17:40:41,090 - Current focus address: 4785
+2025-05-12 17:40:41,292 - Step 25/164
+2025-05-12 17:40:41,292 - Moving zoom to address: 6142
+2025-05-12 17:40:41,815 - Current zoom address: 6142
+2025-05-12 17:40:41,815 - Moving focus to address: 4765
+2025-05-12 17:40:42,446 - Current focus address: 4765
+2025-05-12 17:40:42,647 - Step 26/164
+2025-05-12 17:40:42,648 - Moving zoom to address: 6227
+2025-05-12 17:40:43,171 - Current zoom address: 6227
+2025-05-12 17:40:43,172 - Moving focus to address: 4765
+2025-05-12 17:40:45,474 - Current focus address: 4765
+2025-05-12 17:40:45,674 - Step 27/164
+2025-05-12 17:40:45,675 - Moving zoom to address: 6312
+2025-05-12 17:40:46,197 - Current zoom address: 6312
+2025-05-12 17:40:46,197 - Moving focus to address: 4745
+2025-05-12 17:40:46,825 - Current focus address: 4745
+2025-05-12 17:40:47,026 - Step 28/164
+2025-05-12 17:40:47,027 - Moving zoom to address: 6396
+2025-05-12 17:40:47,545 - Current zoom address: 6396
+2025-05-12 17:40:47,545 - Moving focus to address: 4726
+2025-05-12 17:40:48,174 - Current focus address: 4726
+2025-05-12 17:40:48,375 - Step 29/164
+2025-05-12 17:40:48,375 - Moving zoom to address: 6481
+2025-05-12 17:40:48,896 - Current zoom address: 6481
+2025-05-12 17:40:48,896 - Moving focus to address: 4706
+2025-05-12 17:40:49,523 - Current focus address: 4706
+2025-05-12 17:40:49,724 - Step 30/164
+2025-05-12 17:40:49,725 - Moving zoom to address: 6566
+2025-05-12 17:40:50,245 - Current zoom address: 6566
+2025-05-12 17:40:50,245 - Moving focus to address: 4686
+2025-05-12 17:40:50,872 - Current focus address: 4686
+2025-05-12 17:40:51,073 - Step 31/164
+2025-05-12 17:40:51,074 - Moving zoom to address: 6650
+2025-05-12 17:40:51,595 - Current zoom address: 6650
+2025-05-12 17:40:51,595 - Moving focus to address: 4667
+2025-05-12 17:40:52,224 - Current focus address: 4667
+2025-05-12 17:40:52,425 - Step 32/164
+2025-05-12 17:40:52,425 - Moving zoom to address: 6735
+2025-05-12 17:40:52,947 - Current zoom address: 6735
+2025-05-12 17:40:52,947 - Moving focus to address: 4647
+2025-05-12 17:40:53,574 - Current focus address: 4647
+2025-05-12 17:40:53,775 - Step 33/164
+2025-05-12 17:40:53,775 - Moving zoom to address: 6820
+2025-05-12 17:40:54,298 - Current zoom address: 6820
+2025-05-12 17:40:54,298 - Moving focus to address: 4627
+2025-05-12 17:40:54,925 - Current focus address: 4627
+2025-05-12 17:40:55,126 - Step 34/164
+2025-05-12 17:40:55,127 - Moving zoom to address: 6904
+2025-05-12 17:40:55,646 - Current zoom address: 6904
+2025-05-12 17:40:55,648 - Moving focus to address: 4627
+2025-05-12 17:40:57,997 - Current focus address: 4627
+2025-05-12 17:40:58,198 - Step 35/164
+2025-05-12 17:40:58,198 - Moving zoom to address: 6989
+2025-05-12 17:40:58,719 - Current zoom address: 6989
+2025-05-12 17:40:58,720 - Moving focus to address: 4608
+2025-05-12 17:40:59,345 - Current focus address: 4608
+2025-05-12 17:40:59,546 - Step 36/164
+2025-05-12 17:40:59,546 - Moving zoom to address: 7074
+2025-05-12 17:41:00,068 - Current zoom address: 7074
+2025-05-12 17:41:00,069 - Moving focus to address: 4588
+2025-05-12 17:41:00,694 - Current focus address: 4588
+2025-05-12 17:41:00,895 - Step 37/164
+2025-05-12 17:41:00,896 - Moving zoom to address: 7158
+2025-05-12 17:41:01,416 - Current zoom address: 7158
+2025-05-12 17:41:01,419 - Moving focus to address: 4568
+2025-05-12 17:41:02,044 - Current focus address: 4568
+2025-05-12 17:41:02,245 - Step 38/164
+2025-05-12 17:41:02,246 - Moving zoom to address: 7243
+2025-05-12 17:41:02,769 - Current zoom address: 7243
+2025-05-12 17:41:02,770 - Moving focus to address: 4549
+2025-05-12 17:41:03,395 - Current focus address: 4549
+2025-05-12 17:41:03,596 - Step 39/164
+2025-05-12 17:41:03,596 - Moving zoom to address: 7328
+2025-05-12 17:41:04,121 - Current zoom address: 7328
+2025-05-12 17:41:04,122 - Moving focus to address: 4529
+2025-05-12 17:41:04,747 - Current focus address: 4529
+2025-05-12 17:41:04,948 - Step 40/164
+2025-05-12 17:41:04,952 - Moving zoom to address: 7412
+2025-05-12 17:41:05,473 - Current zoom address: 7412
+2025-05-12 17:41:05,474 - Moving focus to address: 4509
+2025-05-12 17:41:06,105 - Current focus address: 4509
+2025-05-12 17:41:06,306 - Step 41/164
+2025-05-12 17:41:06,307 - Moving zoom to address: 7497
+2025-05-12 17:41:06,831 - Current zoom address: 7497
+2025-05-12 17:41:06,832 - Moving focus to address: 4490
+2025-05-12 17:41:07,460 - Current focus address: 4490
+2025-05-12 17:41:07,661 - Step 42/164
+2025-05-12 17:41:07,662 - Moving zoom to address: 7582
+2025-05-12 17:41:08,189 - Current zoom address: 7582
+2025-05-12 17:41:08,190 - Moving focus to address: 4470
+2025-05-12 17:41:08,845 - Current focus address: 4470
+2025-05-12 17:41:09,045 - Step 43/164
+2025-05-12 17:41:09,046 - Moving zoom to address: 7666
+2025-05-12 17:41:09,571 - Current zoom address: 7666
+2025-05-12 17:41:09,572 - Moving focus to address: 4450
+2025-05-12 17:41:10,198 - Current focus address: 4450
+2025-05-12 17:41:10,399 - Step 44/164
+2025-05-12 17:41:10,402 - Moving zoom to address: 7751
+2025-05-12 17:41:10,922 - Current zoom address: 7751
+2025-05-12 17:41:10,922 - Moving focus to address: 4431
+2025-05-12 17:41:11,547 - Current focus address: 4431
+2025-05-12 17:41:11,748 - Step 45/164
+2025-05-12 17:41:11,749 - Moving zoom to address: 7836
+2025-05-12 17:41:12,273 - Current zoom address: 7836
+2025-05-12 17:41:12,274 - Moving focus to address: 4431
+2025-05-12 17:41:14,576 - Current focus address: 4431
+2025-05-12 17:41:14,777 - Step 46/164
+2025-05-12 17:41:14,777 - Moving zoom to address: 7920
+2025-05-12 17:41:15,302 - Current zoom address: 7920
+2025-05-12 17:41:15,303 - Moving focus to address: 4411
+2025-05-12 17:41:15,927 - Current focus address: 4411
+2025-05-12 17:41:16,128 - Step 47/164
+2025-05-12 17:41:16,129 - Moving zoom to address: 8005
+2025-05-12 17:41:16,653 - Current zoom address: 8005
+2025-05-12 17:41:16,653 - Moving focus to address: 4391
+2025-05-12 17:41:17,277 - Current focus address: 4391
+2025-05-12 17:41:17,479 - Step 48/164
+2025-05-12 17:41:17,479 - Moving zoom to address: 8090
+2025-05-12 17:41:18,002 - Current zoom address: 8090
+2025-05-12 17:41:18,003 - Moving focus to address: 4372
+2025-05-12 17:41:18,629 - Current focus address: 4372
+2025-05-12 17:41:18,830 - Step 49/164
+2025-05-12 17:41:18,831 - Moving zoom to address: 8174
+2025-05-12 17:41:19,355 - Current zoom address: 8174
+2025-05-12 17:41:19,356 - Moving focus to address: 4352
+2025-05-12 17:41:19,981 - Current focus address: 4352
+2025-05-12 17:41:20,182 - Step 50/164
+2025-05-12 17:41:20,186 - Moving zoom to address: 8259
+2025-05-12 17:41:20,706 - Current zoom address: 8259
+2025-05-12 17:41:20,707 - Moving focus to address: 4332
+2025-05-12 17:41:21,332 - Current focus address: 4332
+2025-05-12 17:41:21,537 - Step 51/164
+2025-05-12 17:41:21,538 - Moving zoom to address: 8344
+2025-05-12 17:41:22,065 - Current zoom address: 8344
+2025-05-12 17:41:22,068 - Moving focus to address: 4312
+2025-05-12 17:41:22,696 - Current focus address: 4312
+2025-05-12 17:41:22,897 - Step 52/164
+2025-05-12 17:41:22,898 - Moving zoom to address: 8428
+2025-05-12 17:41:23,423 - Current zoom address: 8428
+2025-05-12 17:41:23,424 - Moving focus to address: 4293
+2025-05-12 17:41:24,052 - Current focus address: 4293
+2025-05-12 17:41:24,253 - Step 53/164
+2025-05-12 17:41:24,254 - Moving zoom to address: 8513
+2025-05-12 17:41:24,778 - Current zoom address: 8513
+2025-05-12 17:41:24,778 - Moving focus to address: 4273
+2025-05-12 17:41:25,408 - Current focus address: 4273
+2025-05-12 17:41:25,609 - Step 54/164
+2025-05-12 17:41:25,609 - Moving zoom to address: 8598
+2025-05-12 17:41:26,130 - Current zoom address: 8598
+2025-05-12 17:41:26,131 - Moving focus to address: 4253
+2025-05-12 17:41:26,756 - Current focus address: 4253
+2025-05-12 17:41:26,957 - Step 55/164
+2025-05-12 17:41:26,958 - Moving zoom to address: 8682
+2025-05-12 17:41:27,477 - Current zoom address: 8682
+2025-05-12 17:41:27,478 - Moving focus to address: 4234
+2025-05-12 17:41:28,108 - Current focus address: 4234
+2025-05-12 17:41:28,309 - Step 56/164
+2025-05-12 17:41:28,309 - Moving zoom to address: 8767
+2025-05-12 17:41:28,830 - Current zoom address: 8767
+2025-05-12 17:41:28,830 - Moving focus to address: 4214
+2025-05-12 17:41:29,458 - Current focus address: 4214
+2025-05-12 17:41:29,659 - Step 57/164
+2025-05-12 17:41:29,659 - Moving zoom to address: 8852
+2025-05-12 17:41:30,181 - Current zoom address: 8852
+2025-05-12 17:41:30,181 - Moving focus to address: 4194
+2025-05-12 17:41:30,806 - Current focus address: 4194
+2025-05-12 17:41:31,008 - Step 58/164
+2025-05-12 17:41:31,008 - Moving zoom to address: 8936
+2025-05-12 17:41:31,531 - Current zoom address: 8936
+2025-05-12 17:41:31,532 - Moving focus to address: 4175
+2025-05-12 17:41:32,161 - Current focus address: 4175
+2025-05-12 17:41:32,363 - Step 59/164
+2025-05-12 17:41:32,364 - Moving zoom to address: 9021
+2025-05-12 17:41:32,889 - Current zoom address: 9021
+2025-05-12 17:41:32,890 - Moving focus to address: 4155
+2025-05-12 17:41:33,521 - Current focus address: 4155
+2025-05-12 17:41:33,724 - Step 60/164
+2025-05-12 17:41:33,724 - Moving zoom to address: 9106
+2025-05-12 17:41:34,247 - Current zoom address: 9106
+2025-05-12 17:41:34,247 - Moving focus to address: 4135
+2025-05-12 17:41:34,875 - Current focus address: 4135
+2025-05-12 17:41:35,076 - Step 61/164
+2025-05-12 17:41:35,076 - Moving zoom to address: 9190
+2025-05-12 17:41:35,597 - Current zoom address: 9190
+2025-05-12 17:41:35,597 - Moving focus to address: 4116
+2025-05-12 17:41:36,225 - Current focus address: 4116
+2025-05-12 17:41:36,426 - Step 62/164
+2025-05-12 17:41:36,426 - Moving zoom to address: 9275
+2025-05-12 17:41:36,948 - Current zoom address: 9275
+2025-05-12 17:41:36,948 - Moving focus to address: 4096
+2025-05-12 17:41:37,575 - Current focus address: 4096
+2025-05-12 17:41:37,776 - Step 63/164
+2025-05-12 17:41:37,777 - Moving zoom to address: 9360
+2025-05-12 17:45:43,360 - Connecting to device 0
+2025-05-12 17:45:44,728 - Device connected successfully
+2025-05-12 17:45:49,400 - Set zoom speed (default or max)
+2025-05-12 17:45:51,521 - Set focus speed (default or max)
+2025-05-12 17:45:51,522 - Generated 164 zoom and focus value pairs
+2025-05-12 17:45:51,522 - Loaded 164 zoom and focus value pairs from generator
+2025-05-12 17:45:51,526 - Step 1/164
+2025-05-12 17:45:51,527 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 17:45:54,798 - Current zoom address: 4111
+2025-05-12 17:45:54,853 - Focus - Original: 186.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 17:45:55,902 - Current focus address: 5159
+2025-05-12 17:45:56,103 - Step 2/164
+2025-05-12 17:45:56,104 - Zoom - Original: 81.00, Scaled: 2.56, Desired address: 4195
+2025-05-12 17:45:56,625 - Current zoom address: 4195
+2025-05-12 17:45:56,676 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 17:45:57,301 - Current focus address: 5139
+2025-05-12 17:45:57,503 - Step 3/164
+2025-05-12 17:45:57,505 - Zoom - Original: 82.00, Scaled: 4.13, Desired address: 4280
+2025-05-12 17:45:58,024 - Current zoom address: 4280
+2025-05-12 17:45:58,075 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 17:46:00,365 - Current focus address: 5139
+2025-05-12 17:46:00,569 - Step 4/164
+2025-05-12 17:46:00,570 - Zoom - Original: 83.00, Scaled: 5.69, Desired address: 4364
+2025-05-12 17:46:01,093 - Current zoom address: 4364
+2025-05-12 17:46:01,145 - Focus - Original: 184.00, Scaled: 251.85, Desired address: 5119
+2025-05-12 17:46:01,773 - Current focus address: 5119
+2025-05-12 17:46:01,974 - Step 5/164
+2025-05-12 17:46:01,975 - Zoom - Original: 84.00, Scaled: 7.26, Desired address: 4449
+2025-05-12 17:46:02,498 - Current zoom address: 4449
+2025-05-12 17:46:02,552 - Focus - Original: 183.00, Scaled: 249.78, Desired address: 5099
+2025-05-12 17:46:03,177 - Current focus address: 5099
+2025-05-12 17:46:03,378 - Step 6/164
+2025-05-12 17:46:03,379 - Zoom - Original: 85.00, Scaled: 8.82, Desired address: 4534
+2025-05-12 17:46:03,904 - Current zoom address: 4534
+2025-05-12 17:46:03,955 - Focus - Original: 182.00, Scaled: 247.71, Desired address: 5080
+2025-05-12 17:46:04,586 - Current focus address: 5080
+2025-05-12 17:46:04,787 - Step 7/164
+2025-05-12 17:46:04,788 - Zoom - Original: 86.00, Scaled: 10.39, Desired address: 4618
+2025-05-12 17:46:05,308 - Current zoom address: 4618
+2025-05-12 17:46:05,359 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 17:46:05,987 - Current focus address: 5060
+2025-05-12 17:46:06,188 - Step 8/164
+2025-05-12 17:46:06,189 - Zoom - Original: 87.00, Scaled: 11.95, Desired address: 4703
+2025-05-12 17:46:06,709 - Current zoom address: 4703
+2025-05-12 17:46:06,760 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 17:46:09,060 - Current focus address: 5060
+2025-05-12 17:46:09,261 - Step 9/164
+2025-05-12 17:46:09,261 - Zoom - Original: 88.00, Scaled: 13.52, Desired address: 4788
+2025-05-12 17:46:09,786 - Current zoom address: 4788
+2025-05-12 17:46:09,837 - Focus - Original: 180.00, Scaled: 243.56, Desired address: 5040
+2025-05-12 17:46:10,461 - Current focus address: 5040
+2025-05-12 17:46:10,663 - Step 10/164
+2025-05-12 17:46:10,664 - Zoom - Original: 89.00, Scaled: 15.08, Desired address: 4872
+2025-05-12 17:46:11,188 - Current zoom address: 4872
+2025-05-12 17:46:11,239 - Focus - Original: 179.00, Scaled: 241.49, Desired address: 5021
+2025-05-12 17:46:11,864 - Current focus address: 5021
+2025-05-12 17:46:12,065 - Step 11/164
+2025-05-12 17:46:12,066 - Zoom - Original: 90.00, Scaled: 16.64, Desired address: 4957
+2025-05-12 17:46:12,586 - Current zoom address: 4957
+2025-05-12 17:46:12,637 - Focus - Original: 178.00, Scaled: 239.41, Desired address: 5001
+2025-05-12 17:46:13,263 - Current focus address: 5001
+2025-05-12 17:46:13,464 - Step 12/164
+2025-05-12 17:46:13,464 - Zoom - Original: 91.00, Scaled: 18.21, Desired address: 5042
+2025-05-12 17:46:13,985 - Current zoom address: 5042
+2025-05-12 17:46:14,036 - Focus - Original: 177.00, Scaled: 237.34, Desired address: 4981
+2025-05-12 17:46:14,661 - Current focus address: 4981
+2025-05-12 17:46:14,862 - Step 13/164
+2025-05-12 17:46:14,862 - Zoom - Original: 92.00, Scaled: 19.77, Desired address: 5126
+2025-05-12 17:46:15,380 - Current zoom address: 5126
+2025-05-12 17:46:15,431 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 17:46:16,055 - Current focus address: 4962
+2025-05-12 17:46:16,256 - Step 14/164
+2025-05-12 17:46:16,256 - Zoom - Original: 93.00, Scaled: 21.34, Desired address: 5211
+2025-05-12 17:46:16,775 - Current zoom address: 5211
+2025-05-12 17:46:16,826 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 17:46:19,125 - Current focus address: 4962
+2025-05-12 17:46:19,327 - Step 15/164
+2025-05-12 17:46:19,328 - Zoom - Original: 94.00, Scaled: 22.90, Desired address: 5296
+2025-05-12 17:46:19,852 - Current zoom address: 5296
+2025-05-12 17:46:19,904 - Focus - Original: 175.00, Scaled: 233.20, Desired address: 4942
+2025-05-12 17:46:20,531 - Current focus address: 4942
+2025-05-12 17:46:20,735 - Step 16/164
+2025-05-12 17:46:20,736 - Zoom - Original: 95.00, Scaled: 24.47, Desired address: 5380
+2025-05-12 17:46:21,257 - Current zoom address: 5380
+2025-05-12 17:46:21,308 - Focus - Original: 174.00, Scaled: 231.12, Desired address: 4922
+2025-05-12 17:46:21,938 - Current focus address: 4922
+2025-05-12 17:46:22,139 - Step 17/164
+2025-05-12 17:46:22,140 - Zoom - Original: 96.00, Scaled: 26.03, Desired address: 5465
+2025-05-12 17:46:22,661 - Current zoom address: 5465
+2025-05-12 17:46:22,713 - Focus - Original: 173.00, Scaled: 229.05, Desired address: 4903
+2025-05-12 17:46:23,340 - Current focus address: 4903
+2025-05-12 17:46:23,541 - Step 18/164
+2025-05-12 17:46:23,542 - Zoom - Original: 97.00, Scaled: 27.60, Desired address: 5550
+2025-05-12 17:46:24,064 - Current zoom address: 5550
+2025-05-12 17:46:24,119 - Focus - Original: 172.00, Scaled: 226.98, Desired address: 4883
+2025-05-12 17:46:24,745 - Current focus address: 4883
+2025-05-12 17:46:24,947 - Step 19/164
+2025-05-12 17:46:24,947 - Zoom - Original: 98.00, Scaled: 29.16, Desired address: 5634
+2025-05-12 17:46:25,471 - Current zoom address: 5634
+2025-05-12 17:46:25,522 - Focus - Original: 172.00, Scaled: 226.98, Desired address: 4883
+2025-05-12 17:46:27,820 - Current focus address: 4883
+2025-05-12 17:46:28,021 - Step 20/164
+2025-05-12 17:46:28,022 - Zoom - Original: 99.00, Scaled: 30.72, Desired address: 5719
+2025-05-12 17:46:28,543 - Current zoom address: 5719
+2025-05-12 17:46:28,594 - Focus - Original: 171.00, Scaled: 224.90, Desired address: 4863
+2025-05-12 17:46:29,223 - Current focus address: 4863
+2025-05-12 17:46:29,424 - Step 21/164
+2025-05-12 17:46:29,425 - Zoom - Original: 100.00, Scaled: 32.29, Desired address: 5804
+2025-05-12 17:46:29,945 - Current zoom address: 5804
+2025-05-12 17:46:29,996 - Focus - Original: 170.00, Scaled: 222.83, Desired address: 4844
+2025-05-12 17:46:30,625 - Current focus address: 4844
+2025-05-12 17:46:30,826 - Step 22/164
+2025-05-12 17:46:30,827 - Zoom - Original: 101.00, Scaled: 33.85, Desired address: 5888
+2025-05-12 17:46:31,352 - Current zoom address: 5888
+2025-05-12 17:46:31,403 - Focus - Original: 169.00, Scaled: 220.76, Desired address: 4824
+2025-05-12 17:46:32,027 - Current focus address: 4824
+2025-05-12 17:46:32,228 - Step 23/164
+2025-05-12 17:46:32,228 - Zoom - Original: 102.00, Scaled: 35.42, Desired address: 5973
+2025-05-12 17:46:32,752 - Current zoom address: 5973
+2025-05-12 17:46:32,803 - Focus - Original: 168.00, Scaled: 218.68, Desired address: 4804
+2025-05-12 17:46:33,430 - Current focus address: 4804
+2025-05-12 17:46:33,631 - Step 24/164
+2025-05-12 17:46:33,631 - Zoom - Original: 103.00, Scaled: 36.98, Desired address: 6058
+2025-05-12 17:46:34,161 - Current zoom address: 6058
+2025-05-12 17:46:34,213 - Focus - Original: 167.00, Scaled: 216.61, Desired address: 4785
+2025-05-12 17:46:34,846 - Current focus address: 4785
+2025-05-12 17:46:35,048 - Step 25/164
+2025-05-12 17:46:35,048 - Zoom - Original: 104.00, Scaled: 38.55, Desired address: 6142
+2025-05-12 17:46:35,570 - Current zoom address: 6142
+2025-05-12 17:46:35,622 - Focus - Original: 166.00, Scaled: 214.54, Desired address: 4765
+2025-05-12 17:46:36,253 - Current focus address: 4765
+2025-05-12 17:46:36,454 - Step 26/164
+2025-05-12 17:46:36,454 - Zoom - Original: 105.00, Scaled: 40.11, Desired address: 6227
+2025-05-12 17:46:36,975 - Current zoom address: 6227
+2025-05-12 17:46:37,026 - Focus - Original: 166.00, Scaled: 214.54, Desired address: 4765
+2025-05-12 17:46:39,327 - Current focus address: 4765
+2025-05-12 17:46:39,528 - Step 27/164
+2025-05-12 17:46:39,529 - Zoom - Original: 106.00, Scaled: 41.67, Desired address: 6312
+2025-05-12 17:46:40,052 - Current zoom address: 6312
+2025-05-12 17:46:40,104 - Focus - Original: 165.00, Scaled: 212.46, Desired address: 4745
+2025-05-12 17:46:40,729 - Current focus address: 4745
+2025-05-12 17:46:40,930 - Step 28/164
+2025-05-12 17:46:40,932 - Zoom - Original: 107.00, Scaled: 43.24, Desired address: 6396
+2025-05-12 17:46:41,455 - Current zoom address: 6396
+2025-05-12 17:46:41,506 - Focus - Original: 164.00, Scaled: 210.39, Desired address: 4726
+2025-05-12 17:46:42,131 - Current focus address: 4726
+2025-05-12 17:46:42,332 - Step 29/164
+2025-05-12 17:46:42,335 - Zoom - Original: 108.00, Scaled: 44.80, Desired address: 6481
+2025-05-12 17:46:42,857 - Current zoom address: 6481
+2025-05-12 17:46:42,908 - Focus - Original: 163.00, Scaled: 208.32, Desired address: 4706
+2025-05-12 17:46:43,536 - Current focus address: 4706
+2025-05-12 17:46:43,737 - Step 30/164
+2025-05-12 17:46:43,737 - Zoom - Original: 109.00, Scaled: 46.37, Desired address: 6566
+2025-05-12 17:46:44,259 - Current zoom address: 6566
+2025-05-12 17:46:44,310 - Focus - Original: 162.00, Scaled: 206.24, Desired address: 4686
+2025-05-12 17:46:44,939 - Current focus address: 4686
+2025-05-12 17:46:45,140 - Step 31/164
+2025-05-12 17:46:45,141 - Zoom - Original: 110.00, Scaled: 47.93, Desired address: 6650
+2025-05-12 17:46:45,662 - Current zoom address: 6650
+2025-05-12 17:46:45,713 - Focus - Original: 161.00, Scaled: 204.17, Desired address: 4667
+2025-05-12 17:46:46,341 - Current focus address: 4667
+2025-05-12 17:46:46,542 - Step 32/164
+2025-05-12 17:46:46,543 - Zoom - Original: 111.00, Scaled: 49.50, Desired address: 6735
+2025-05-12 17:46:47,064 - Current zoom address: 6735
+2025-05-12 17:46:47,119 - Focus - Original: 160.00, Scaled: 202.10, Desired address: 4647
+2025-05-12 17:46:47,746 - Current focus address: 4647
+2025-05-12 17:46:47,947 - Step 33/164
+2025-05-12 17:46:47,948 - Zoom - Original: 112.00, Scaled: 51.06, Desired address: 6820
+2025-05-12 17:46:48,469 - Current zoom address: 6820
+2025-05-12 17:46:48,521 - Focus - Original: 159.00, Scaled: 200.02, Desired address: 4627
+2025-05-12 17:46:49,146 - Current focus address: 4627
+2025-05-12 17:46:49,348 - Step 34/164
+2025-05-12 17:46:49,349 - Zoom - Original: 113.00, Scaled: 52.63, Desired address: 6904
+2025-05-12 17:46:49,873 - Current zoom address: 6904
+2025-05-12 17:46:49,924 - Focus - Original: 159.00, Scaled: 200.02, Desired address: 4627
+2025-05-12 17:46:52,221 - Current focus address: 4627
+2025-05-12 17:46:52,422 - Step 35/164
+2025-05-12 17:46:52,422 - Zoom - Original: 114.00, Scaled: 54.19, Desired address: 6989
+2025-05-12 17:46:52,943 - Current zoom address: 6989
+2025-05-12 17:46:52,994 - Focus - Original: 158.00, Scaled: 197.95, Desired address: 4608
+2025-05-12 17:46:53,620 - Current focus address: 4608
+2025-05-12 17:46:53,821 - Step 36/164
+2025-05-12 17:46:53,822 - Zoom - Original: 115.00, Scaled: 55.75, Desired address: 7074
+2025-05-12 17:46:54,343 - Current zoom address: 7074
+2025-05-12 17:46:54,396 - Focus - Original: 157.00, Scaled: 195.88, Desired address: 4588
+2025-05-12 17:46:55,024 - Current focus address: 4588
+2025-05-12 17:46:55,225 - Step 37/164
+2025-05-12 17:46:55,227 - Zoom - Original: 116.00, Scaled: 57.32, Desired address: 7158
+2025-05-12 17:46:55,746 - Current zoom address: 7158
+2025-05-12 17:46:55,798 - Focus - Original: 156.00, Scaled: 193.80, Desired address: 4568
+2025-05-12 17:46:56,422 - Current focus address: 4568
+2025-05-12 17:46:56,623 - Step 38/164
+2025-05-12 17:46:56,624 - Zoom - Original: 117.00, Scaled: 58.88, Desired address: 7243
+2025-05-12 17:46:57,143 - Current zoom address: 7243
+2025-05-12 17:46:57,194 - Focus - Original: 155.00, Scaled: 191.73, Desired address: 4549
+2025-05-12 17:46:57,823 - Current focus address: 4549
+2025-05-12 17:46:58,024 - Step 39/164
+2025-05-12 17:46:58,025 - Zoom - Original: 118.00, Scaled: 60.45, Desired address: 7328
+2025-05-12 17:46:58,547 - Current zoom address: 7328
+2025-05-12 17:46:58,599 - Focus - Original: 154.00, Scaled: 189.66, Desired address: 4529
+2025-05-12 17:46:59,227 - Current focus address: 4529
+2025-05-12 17:46:59,428 - Step 40/164
+2025-05-12 17:46:59,429 - Zoom - Original: 119.00, Scaled: 62.01, Desired address: 7412
+2025-05-12 17:46:59,954 - Current zoom address: 7412
+2025-05-12 17:47:00,007 - Focus - Original: 153.00, Scaled: 187.59, Desired address: 4509
+2025-05-12 17:47:00,636 - Current focus address: 4509
+2025-05-12 17:47:00,837 - Step 41/164
+2025-05-12 17:47:00,838 - Zoom - Original: 120.00, Scaled: 63.58, Desired address: 7497
+2025-05-12 17:47:01,358 - Current zoom address: 7497
+2025-05-12 17:47:01,409 - Focus - Original: 152.00, Scaled: 185.51, Desired address: 4490
+2025-05-12 17:47:02,037 - Current focus address: 4490
+2025-05-12 17:47:02,238 - Step 42/164
+2025-05-12 17:47:02,239 - Zoom - Original: 121.00, Scaled: 65.14, Desired address: 7582
+2025-05-12 17:47:02,758 - Current zoom address: 7582
+2025-05-12 17:47:02,809 - Focus - Original: 151.00, Scaled: 183.44, Desired address: 4470
+2025-05-12 17:47:03,435 - Current focus address: 4470
+2025-05-12 17:47:03,637 - Step 43/164
+2025-05-12 17:47:03,637 - Zoom - Original: 122.00, Scaled: 66.71, Desired address: 7666
+2025-05-12 17:47:04,160 - Current zoom address: 7666
+2025-05-12 17:47:04,213 - Focus - Original: 150.00, Scaled: 181.37, Desired address: 4450
+2025-05-12 17:47:04,841 - Current focus address: 4450
+2025-05-12 17:47:05,042 - Step 44/164
+2025-05-12 17:47:05,042 - Zoom - Original: 123.00, Scaled: 68.27, Desired address: 7751
+2025-05-12 17:47:05,562 - Current zoom address: 7751
+2025-05-12 17:47:05,614 - Focus - Original: 149.00, Scaled: 179.29, Desired address: 4431
+2025-05-12 17:47:06,240 - Current focus address: 4431
+2025-05-12 17:47:06,442 - Step 45/164
+2025-05-12 17:47:06,442 - Zoom - Original: 124.00, Scaled: 69.83, Desired address: 7836
+2025-05-12 17:47:06,963 - Current zoom address: 7836
+2025-05-12 17:47:07,014 - Focus - Original: 149.00, Scaled: 179.29, Desired address: 4431
+2025-05-12 17:47:09,312 - Current focus address: 4431
+2025-05-12 17:47:09,514 - Step 46/164
+2025-05-12 17:47:09,515 - Zoom - Original: 125.00, Scaled: 71.40, Desired address: 7920
+2025-05-12 17:47:10,036 - Current zoom address: 7920
+2025-05-12 17:47:10,087 - Focus - Original: 148.00, Scaled: 177.22, Desired address: 4411
+2025-05-12 17:47:10,714 - Current focus address: 4411
+2025-05-12 17:47:10,915 - Step 47/164
+2025-05-12 17:47:10,918 - Zoom - Original: 126.00, Scaled: 72.96, Desired address: 8005
+2025-05-12 17:47:11,437 - Current zoom address: 8005
+2025-05-12 17:47:11,488 - Focus - Original: 147.00, Scaled: 175.15, Desired address: 4391
+2025-05-12 17:47:12,115 - Current focus address: 4391
+2025-05-12 17:47:12,319 - Step 48/164
+2025-05-12 17:47:12,320 - Zoom - Original: 127.00, Scaled: 74.53, Desired address: 8090
+2025-05-12 17:47:12,841 - Current zoom address: 8090
+2025-05-12 17:47:12,892 - Focus - Original: 146.00, Scaled: 173.07, Desired address: 4372
+2025-05-12 17:47:13,522 - Current focus address: 4372
+2025-05-12 17:47:13,723 - Step 49/164
+2025-05-12 17:47:13,724 - Zoom - Original: 128.00, Scaled: 76.09, Desired address: 8174
+2025-05-12 17:47:14,244 - Current zoom address: 8174
+2025-05-12 17:47:14,295 - Focus - Original: 145.00, Scaled: 171.00, Desired address: 4352
+2025-05-12 17:47:14,921 - Current focus address: 4352
+2025-05-12 17:47:15,123 - Step 50/164
+2025-05-12 17:47:15,124 - Zoom - Original: 129.00, Scaled: 77.66, Desired address: 8259
+2025-05-12 17:47:15,645 - Current zoom address: 8259
+2025-05-12 17:47:15,696 - Focus - Original: 144.00, Scaled: 168.93, Desired address: 4332
+2025-05-12 17:47:16,322 - Current focus address: 4332
+2025-05-12 17:47:16,523 - Step 51/164
+2025-05-12 17:47:16,524 - Zoom - Original: 130.00, Scaled: 79.22, Desired address: 8344
+2025-05-12 17:47:17,044 - Current zoom address: 8344
+2025-05-12 17:47:17,095 - Focus - Original: 143.00, Scaled: 166.85, Desired address: 4312
+2025-05-12 17:47:17,721 - Current focus address: 4312
+2025-05-12 17:47:17,922 - Step 52/164
+2025-05-12 17:47:17,922 - Zoom - Original: 131.00, Scaled: 80.79, Desired address: 8428
+2025-05-12 17:47:18,443 - Current zoom address: 8428
+2025-05-12 17:47:18,494 - Focus - Original: 142.00, Scaled: 164.78, Desired address: 4293
+2025-05-12 17:47:19,123 - Current focus address: 4293
+2025-05-12 17:47:19,324 - Step 53/164
+2025-05-12 17:47:19,325 - Zoom - Original: 132.00, Scaled: 82.35, Desired address: 8513
+2025-05-12 17:47:19,845 - Current zoom address: 8513
+2025-05-12 17:47:19,896 - Focus - Original: 141.00, Scaled: 162.71, Desired address: 4273
+2025-05-12 17:47:20,525 - Current focus address: 4273
+2025-05-12 17:47:20,726 - Step 54/164
+2025-05-12 17:47:20,727 - Zoom - Original: 133.00, Scaled: 83.91, Desired address: 8598
+2025-05-12 17:47:21,249 - Current zoom address: 8598
+2025-05-12 17:47:21,304 - Focus - Original: 140.00, Scaled: 160.63, Desired address: 4253
+2025-05-12 17:47:21,929 - Current focus address: 4253
+2025-05-12 17:47:22,130 - Step 55/164
+2025-05-12 17:47:22,130 - Zoom - Original: 134.00, Scaled: 85.48, Desired address: 8682
+2025-05-12 17:47:22,653 - Current zoom address: 8682
+2025-05-12 17:47:22,704 - Focus - Original: 139.00, Scaled: 158.56, Desired address: 4234
+2025-05-12 17:47:23,331 - Current focus address: 4234
+2025-05-12 17:47:23,535 - Step 56/164
+2025-05-12 17:47:23,536 - Zoom - Original: 135.00, Scaled: 87.04, Desired address: 8767
+2025-05-12 17:47:24,057 - Current zoom address: 8767
+2025-05-12 17:47:24,108 - Focus - Original: 138.00, Scaled: 156.49, Desired address: 4214
+2025-05-12 17:47:24,752 - Current focus address: 4214
+2025-05-12 17:47:24,953 - Step 57/164
+2025-05-12 17:47:24,954 - Zoom - Original: 136.00, Scaled: 88.61, Desired address: 8852
+2025-05-12 17:47:25,473 - Current zoom address: 8852
+2025-05-12 17:47:25,524 - Focus - Original: 137.00, Scaled: 154.41, Desired address: 4194
+2025-05-12 17:47:26,156 - Current focus address: 4194
+2025-05-12 17:47:26,357 - Step 58/164
+2025-05-12 17:47:26,358 - Zoom - Original: 137.00, Scaled: 90.17, Desired address: 8936
+2025-05-12 17:47:26,879 - Current zoom address: 8936
+2025-05-12 17:47:26,931 - Focus - Original: 136.00, Scaled: 152.34, Desired address: 4175
+2025-05-12 17:47:27,558 - Current focus address: 4175
+2025-05-12 17:47:27,759 - Step 59/164
+2025-05-12 17:47:27,760 - Zoom - Original: 138.00, Scaled: 91.74, Desired address: 9021
+2025-05-12 17:47:28,278 - Current zoom address: 9021
+2025-05-12 17:47:28,329 - Focus - Original: 135.00, Scaled: 150.27, Desired address: 4155
+2025-05-12 17:47:28,953 - Current focus address: 4155
+2025-05-12 17:47:29,154 - Step 60/164
+2025-05-12 17:47:29,155 - Zoom - Original: 139.00, Scaled: 93.30, Desired address: 9106
+2025-05-12 17:47:29,676 - Current zoom address: 9106
+2025-05-12 17:47:29,728 - Focus - Original: 134.00, Scaled: 148.20, Desired address: 4135
+2025-05-12 17:47:30,354 - Current focus address: 4135
+2025-05-12 17:47:30,555 - Step 61/164
+2025-05-12 17:47:30,557 - Zoom - Original: 140.00, Scaled: 94.87, Desired address: 9190
+2025-05-12 17:47:31,077 - Current zoom address: 9190
+2025-05-12 17:47:31,128 - Focus - Original: 133.00, Scaled: 146.12, Desired address: 4116
+2025-05-12 17:47:31,755 - Current focus address: 4116
+2025-05-12 17:47:31,956 - Step 62/164
+2025-05-12 17:47:31,957 - Zoom - Original: 141.00, Scaled: 96.43, Desired address: 9275
+2025-05-12 17:47:32,477 - Current zoom address: 9275
+2025-05-12 17:47:32,529 - Focus - Original: 132.00, Scaled: 144.05, Desired address: 4096
+2025-05-12 17:47:33,155 - Current focus address: 4096
+2025-05-12 17:47:33,356 - Step 63/164
+2025-05-12 17:47:33,356 - Zoom - Original: 142.00, Scaled: 97.99, Desired address: 9360
+2025-05-12 17:47:33,878 - Current zoom address: 9360
+2025-05-12 17:47:33,929 - Focus - Original: 131.00, Scaled: 141.98, Desired address: 4076
+2025-05-12 17:47:34,555 - Current focus address: 4076
+2025-05-12 17:47:34,756 - Step 64/164
+2025-05-12 17:47:34,757 - Zoom - Original: 143.00, Scaled: 99.56, Desired address: 9444
+2025-05-12 17:47:35,277 - Current zoom address: 9444
+2025-05-12 17:47:35,328 - Focus - Original: 130.00, Scaled: 139.90, Desired address: 4057
+2025-05-12 17:47:35,955 - Current focus address: 4057
+2025-05-12 17:47:36,157 - Step 65/164
+2025-05-12 17:47:36,158 - Zoom - Original: 144.00, Scaled: 101.12, Desired address: 9529
+2025-05-12 17:47:36,679 - Current zoom address: 9529
+2025-05-12 17:47:36,731 - Focus - Original: 129.00, Scaled: 137.83, Desired address: 4037
+2025-05-12 17:47:37,355 - Current focus address: 4037
+2025-05-12 17:47:37,556 - Step 66/164
+2025-05-12 17:47:37,557 - Zoom - Original: 145.00, Scaled: 102.69, Desired address: 9614
+2025-05-12 17:47:38,078 - Current zoom address: 9614
+2025-05-12 17:47:38,129 - Focus - Original: 129.00, Scaled: 137.83, Desired address: 4037
+2025-05-12 17:47:40,423 - Current focus address: 4037
+2025-05-12 17:47:40,624 - Step 67/164
+2025-05-12 17:47:40,625 - Zoom - Original: 146.00, Scaled: 104.25, Desired address: 9698
+2025-05-12 17:47:41,146 - Current zoom address: 9698
+2025-05-12 17:47:41,199 - Focus - Original: 128.00, Scaled: 135.76, Desired address: 4017
+2025-05-12 17:47:41,826 - Current focus address: 4017
+2025-05-12 17:47:42,027 - Step 68/164
+2025-05-12 17:47:42,028 - Zoom - Original: 147.00, Scaled: 105.82, Desired address: 9783
+2025-05-12 17:47:42,548 - Current zoom address: 9783
+2025-05-12 17:47:42,603 - Focus - Original: 127.00, Scaled: 133.68, Desired address: 3998
+2025-05-12 17:47:43,229 - Current focus address: 3998
+2025-05-12 17:47:43,430 - Step 69/164
+2025-05-12 17:47:43,430 - Zoom - Original: 148.00, Scaled: 107.38, Desired address: 9868
+2025-05-12 17:47:43,951 - Current zoom address: 9868
+2025-05-12 17:47:44,003 - Focus - Original: 126.00, Scaled: 131.61, Desired address: 3978
+2025-05-12 17:47:44,629 - Current focus address: 3978
+2025-05-12 17:47:44,831 - Step 70/164
+2025-05-12 17:47:44,832 - Zoom - Original: 149.00, Scaled: 108.94, Desired address: 9952
+2025-05-12 17:47:45,356 - Current zoom address: 9952
+2025-05-12 17:47:45,407 - Focus - Original: 125.00, Scaled: 129.54, Desired address: 3958
+2025-05-12 17:47:52,131 - Current focus address: 3958
+2025-05-12 17:47:52,332 - Step 71/164
+2025-05-12 17:47:52,334 - Zoom - Original: 150.00, Scaled: 110.51, Desired address: 10037
+2025-05-12 17:47:52,852 - Current zoom address: 10037
+2025-05-12 17:47:52,903 - Focus - Original: 124.00, Scaled: 127.46, Desired address: 3939
+2025-05-12 17:47:53,526 - Current focus address: 3939
+2025-05-12 17:47:53,727 - Step 72/164
+2025-05-12 17:47:53,728 - Zoom - Original: 151.00, Scaled: 112.07, Desired address: 10122
+2025-05-12 17:47:54,247 - Current zoom address: 10122
+2025-05-12 17:47:54,303 - Focus - Original: 123.00, Scaled: 125.39, Desired address: 3919
+2025-05-12 17:47:54,928 - Current focus address: 3919
+2025-05-12 17:47:55,129 - Step 73/164
+2025-05-12 17:47:55,130 - Zoom - Original: 152.00, Scaled: 113.64, Desired address: 10206
+2025-05-12 17:47:55,652 - Current zoom address: 10206
+2025-05-12 17:47:55,703 - Focus - Original: 122.00, Scaled: 123.32, Desired address: 3899
+2025-05-12 17:47:56,332 - Current focus address: 3899
+2025-05-12 17:47:56,535 - Step 74/164
+2025-05-12 17:47:56,535 - Zoom - Original: 153.00, Scaled: 115.20, Desired address: 10291
+2025-05-12 17:47:57,056 - Current zoom address: 10291
+2025-05-12 17:47:57,107 - Focus - Original: 121.00, Scaled: 121.24, Desired address: 3880
+2025-05-12 17:47:57,736 - Current focus address: 3880
+2025-05-12 17:47:57,937 - Step 75/164
+2025-05-12 17:47:57,937 - Zoom - Original: 154.00, Scaled: 116.77, Desired address: 10376
+2025-05-12 17:47:58,458 - Current zoom address: 10376
+2025-05-12 17:47:58,509 - Focus - Original: 120.00, Scaled: 119.17, Desired address: 3860
+2025-05-12 17:47:59,140 - Current focus address: 3860
+2025-05-12 17:47:59,341 - Step 76/164
+2025-05-12 17:47:59,341 - Zoom - Original: 155.00, Scaled: 118.33, Desired address: 10460
+2025-05-12 17:47:59,862 - Current zoom address: 10460
+2025-05-12 17:47:59,914 - Focus - Original: 119.00, Scaled: 117.10, Desired address: 3840
+2025-05-12 17:48:00,542 - Current focus address: 3840
+2025-05-12 17:48:00,743 - Step 77/164
+2025-05-12 17:48:00,743 - Zoom - Original: 156.00, Scaled: 119.90, Desired address: 10545
+2025-05-12 17:48:01,265 - Current zoom address: 10545
+2025-05-12 17:48:01,320 - Focus - Original: 118.00, Scaled: 115.02, Desired address: 3821
+2025-05-12 17:48:01,944 - Current focus address: 3821
+2025-05-12 17:48:02,145 - Step 78/164
+2025-05-12 17:48:02,146 - Zoom - Original: 157.00, Scaled: 121.46, Desired address: 10630
+2025-05-12 17:48:02,675 - Current zoom address: 10630
+2025-05-12 17:48:02,727 - Focus - Original: 117.00, Scaled: 112.95, Desired address: 3801
+2025-05-12 17:48:03,355 - Current focus address: 3801
+2025-05-12 17:48:03,556 - Step 79/164
+2025-05-12 17:48:03,556 - Zoom - Original: 158.00, Scaled: 123.02, Desired address: 10714
+2025-05-12 17:48:04,077 - Current zoom address: 10714
+2025-05-12 17:48:04,128 - Focus - Original: 116.00, Scaled: 110.88, Desired address: 3781
+2025-05-12 17:48:04,762 - Current focus address: 3781
+2025-05-12 17:48:04,964 - Step 80/164
+2025-05-12 17:48:04,965 - Zoom - Original: 159.00, Scaled: 124.59, Desired address: 10799
+2025-05-12 17:48:05,488 - Current zoom address: 10799
+2025-05-12 17:48:05,539 - Focus - Original: 115.00, Scaled: 108.80, Desired address: 3762
+2025-05-12 17:48:06,169 - Current focus address: 3762
+2025-05-12 17:48:06,370 - Step 81/164
+2025-05-12 17:48:06,371 - Zoom - Original: 160.00, Scaled: 126.15, Desired address: 10884
+2025-05-12 17:48:06,891 - Current zoom address: 10884
+2025-05-12 17:48:06,942 - Focus - Original: 114.00, Scaled: 106.73, Desired address: 3742
+2025-05-12 17:48:07,569 - Current focus address: 3742
+2025-05-12 17:48:07,770 - Step 82/164
+2025-05-12 17:48:07,770 - Zoom - Original: 161.00, Scaled: 127.72, Desired address: 10968
+2025-05-12 17:48:08,290 - Current zoom address: 10968
+2025-05-12 17:48:08,341 - Focus - Original: 113.00, Scaled: 104.66, Desired address: 3722
+2025-05-12 17:48:08,970 - Current focus address: 3722
+2025-05-12 17:48:09,171 - Step 83/164
+2025-05-12 17:48:09,172 - Zoom - Original: 162.00, Scaled: 129.28, Desired address: 11053
+2025-05-12 17:48:09,692 - Current zoom address: 11053
+2025-05-12 17:48:09,744 - Focus - Original: 112.00, Scaled: 102.59, Desired address: 3703
+2025-05-12 17:48:10,370 - Current focus address: 3703
+2025-05-12 17:48:10,571 - Step 84/164
+2025-05-12 17:48:10,572 - Zoom - Original: 163.00, Scaled: 130.85, Desired address: 11137
+2025-05-12 17:48:11,093 - Current zoom address: 11137
+2025-05-12 17:48:11,145 - Focus - Original: 111.00, Scaled: 100.51, Desired address: 3683
+2025-05-12 17:48:11,773 - Current focus address: 3683
+2025-05-12 17:48:11,974 - Step 85/164
+2025-05-12 17:48:11,974 - Zoom - Original: 164.00, Scaled: 132.41, Desired address: 11222
+2025-05-12 17:48:12,494 - Current zoom address: 11222
+2025-05-12 17:48:12,545 - Focus - Original: 110.00, Scaled: 98.44, Desired address: 3663
+2025-05-12 17:48:13,173 - Current focus address: 3663
+2025-05-12 17:48:13,374 - Step 86/164
+2025-05-12 17:48:13,374 - Zoom - Original: 165.00, Scaled: 133.98, Desired address: 11307
+2025-05-12 17:48:13,895 - Current zoom address: 11307
+2025-05-12 17:48:13,947 - Focus - Original: 109.00, Scaled: 96.37, Desired address: 3644
+2025-05-12 17:48:14,575 - Current focus address: 3644
+2025-05-12 17:48:14,776 - Step 87/164
+2025-05-12 17:48:14,777 - Zoom - Original: 166.00, Scaled: 135.54, Desired address: 11391
+2025-05-12 17:48:15,308 - Current zoom address: 11391
+2025-05-12 17:48:15,359 - Focus - Original: 108.00, Scaled: 94.29, Desired address: 3624
+2025-05-12 17:48:15,986 - Current focus address: 3624
+2025-05-12 17:48:16,188 - Step 88/164
+2025-05-12 17:48:16,188 - Zoom - Original: 167.00, Scaled: 137.10, Desired address: 11476
+2025-05-12 17:48:16,709 - Current zoom address: 11476
+2025-05-12 17:48:16,760 - Focus - Original: 107.00, Scaled: 92.22, Desired address: 3604
+2025-05-12 17:48:17,388 - Current focus address: 3604
+2025-05-12 17:48:17,589 - Step 89/164
+2025-05-12 17:48:17,590 - Zoom - Original: 168.00, Scaled: 138.67, Desired address: 11561
+2025-05-12 17:48:18,112 - Current zoom address: 11561
+2025-05-12 17:48:18,164 - Focus - Original: 106.00, Scaled: 90.15, Desired address: 3585
+2025-05-12 17:48:18,791 - Current focus address: 3585
+2025-05-12 17:48:18,992 - Step 90/164
+2025-05-12 17:48:18,992 - Zoom - Original: 169.00, Scaled: 140.23, Desired address: 11645
+2025-05-12 17:48:19,512 - Current zoom address: 11645
+2025-05-12 17:48:19,564 - Focus - Original: 105.00, Scaled: 88.07, Desired address: 3565
+2025-05-12 17:48:20,191 - Current focus address: 3565
+2025-05-12 17:48:20,392 - Step 91/164
+2025-05-12 17:48:20,393 - Zoom - Original: 170.00, Scaled: 141.80, Desired address: 11730
+2025-05-12 17:48:20,912 - Current zoom address: 11730
+2025-05-12 17:48:20,963 - Focus - Original: 104.00, Scaled: 86.00, Desired address: 3545
+2025-05-12 17:48:21,590 - Current focus address: 3545
+2025-05-12 17:48:21,791 - Step 92/164
+2025-05-12 17:48:21,792 - Zoom - Original: 171.00, Scaled: 143.36, Desired address: 11815
+2025-05-12 17:48:22,312 - Current zoom address: 11815
+2025-05-12 17:48:22,363 - Focus - Original: 103.00, Scaled: 83.93, Desired address: 3525
+2025-05-12 17:48:22,993 - Current focus address: 3525
+2025-05-12 17:48:23,194 - Step 93/164
+2025-05-12 17:48:23,195 - Zoom - Original: 172.00, Scaled: 144.93, Desired address: 11899
+2025-05-12 17:48:23,714 - Current zoom address: 11899
+2025-05-12 17:48:23,765 - Focus - Original: 102.00, Scaled: 81.85, Desired address: 3506
+2025-05-12 17:48:24,406 - Current focus address: 3506
+2025-05-12 17:48:24,607 - Step 94/164
+2025-05-12 17:48:24,607 - Zoom - Original: 173.00, Scaled: 146.49, Desired address: 11984
+2025-05-12 17:49:02,191 - Connecting to device 0
+2025-05-12 17:49:03,556 - Device connected successfully
+2025-05-12 17:49:13,547 - Set zoom speed (default or max)
+2025-05-12 17:49:17,368 - Set focus speed (default or max)
+2025-05-12 17:49:17,369 - Generated 164 zoom and focus value pairs
+2025-05-12 17:49:17,370 - Loaded 164 zoom and focus value pairs from generator
+2025-05-12 17:49:17,374 - Step 1/164
+2025-05-12 17:49:17,374 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 17:49:21,871 - Current zoom address: 4111
+2025-05-12 17:49:21,922 - Focus - Original: 186.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 17:49:23,185 - Current focus address: 5159
+2025-05-12 17:49:23,237 - Step 2/164
+2025-05-12 17:49:23,237 - Zoom - Original: 81.00, Scaled: 2.56, Desired address: 4195
+2025-05-12 17:49:23,757 - Current zoom address: 4195
+2025-05-12 17:49:23,808 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 17:49:24,435 - Current focus address: 5139
+2025-05-12 17:49:24,488 - Step 3/164
+2025-05-12 17:49:24,491 - Zoom - Original: 82.00, Scaled: 4.13, Desired address: 4280
+2025-05-12 17:49:25,009 - Current zoom address: 4280
+2025-05-12 17:49:25,061 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 17:49:27,356 - Current focus address: 5139
+2025-05-12 17:49:27,407 - Step 4/164
+2025-05-12 17:49:27,408 - Zoom - Original: 83.00, Scaled: 5.69, Desired address: 4364
+2025-05-12 17:49:27,929 - Current zoom address: 4364
+2025-05-12 17:49:27,980 - Focus - Original: 184.00, Scaled: 251.85, Desired address: 5119
+2025-05-12 17:49:28,608 - Current focus address: 5119
+2025-05-12 17:49:28,659 - Step 5/164
+2025-05-12 17:49:28,660 - Zoom - Original: 84.00, Scaled: 7.26, Desired address: 4449
+2025-05-12 17:49:29,181 - Current zoom address: 4449
+2025-05-12 17:49:29,234 - Focus - Original: 183.00, Scaled: 249.78, Desired address: 5099
+2025-05-12 17:49:29,861 - Current focus address: 5099
+2025-05-12 17:49:29,913 - Step 6/164
+2025-05-12 17:49:29,913 - Zoom - Original: 85.00, Scaled: 8.82, Desired address: 4534
+2025-05-12 17:49:30,437 - Current zoom address: 4534
+2025-05-12 17:49:30,488 - Focus - Original: 182.00, Scaled: 247.71, Desired address: 5080
+2025-05-12 17:49:31,114 - Current focus address: 5080
+2025-05-12 17:49:31,165 - Step 7/164
+2025-05-12 17:49:31,169 - Zoom - Original: 86.00, Scaled: 10.39, Desired address: 4618
+2025-05-12 17:49:31,690 - Current zoom address: 4618
+2025-05-12 17:49:31,741 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 17:49:32,373 - Current focus address: 5060
+2025-05-12 17:49:32,424 - Step 8/164
+2025-05-12 17:49:32,425 - Zoom - Original: 87.00, Scaled: 11.95, Desired address: 4703
+2025-05-12 17:49:32,945 - Current zoom address: 4703
+2025-05-12 17:49:32,996 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 17:49:35,296 - Current focus address: 5060
+2025-05-12 17:49:35,347 - Step 9/164
+2025-05-12 17:49:35,348 - Zoom - Original: 88.00, Scaled: 13.52, Desired address: 4788
+2025-05-12 17:49:35,874 - Current zoom address: 4788
+2025-05-12 17:49:35,925 - Focus - Original: 180.00, Scaled: 243.56, Desired address: 5040
+2025-05-12 17:49:36,554 - Current focus address: 5040
+2025-05-12 17:49:36,605 - Step 10/164
+2025-05-12 17:49:36,606 - Zoom - Original: 89.00, Scaled: 15.08, Desired address: 4872
+2025-05-12 17:49:37,127 - Current zoom address: 4872
+2025-05-12 17:49:37,179 - Focus - Original: 179.00, Scaled: 241.49, Desired address: 5021
+2025-05-12 17:49:37,805 - Current focus address: 5021
+2025-05-12 17:49:37,856 - Step 11/164
+2025-05-12 17:49:37,857 - Zoom - Original: 90.00, Scaled: 16.64, Desired address: 4957
+2025-05-12 17:49:38,379 - Current zoom address: 4957
+2025-05-12 17:49:38,431 - Focus - Original: 178.00, Scaled: 239.41, Desired address: 5001
+2025-05-12 17:49:39,061 - Current focus address: 5001
+2025-05-12 17:49:39,112 - Step 12/164
+2025-05-12 17:49:39,113 - Zoom - Original: 91.00, Scaled: 18.21, Desired address: 5042
+2025-05-12 17:49:39,638 - Current zoom address: 5042
+2025-05-12 17:49:39,689 - Focus - Original: 177.00, Scaled: 237.34, Desired address: 4981
+2025-05-12 17:49:40,315 - Current focus address: 4981
+2025-05-12 17:49:40,370 - Step 13/164
+2025-05-12 17:49:40,372 - Zoom - Original: 92.00, Scaled: 19.77, Desired address: 5126
+2025-05-12 17:49:40,892 - Current zoom address: 5126
+2025-05-12 17:49:40,943 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 17:49:41,572 - Current focus address: 4962
+2025-05-12 17:49:41,623 - Step 14/164
+2025-05-12 17:49:41,624 - Zoom - Original: 93.00, Scaled: 21.34, Desired address: 5211
+2025-05-12 17:49:42,143 - Current zoom address: 5211
+2025-05-12 17:49:42,194 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 17:49:44,490 - Current focus address: 4962
+2025-05-12 17:49:44,542 - Step 15/164
+2025-05-12 17:49:44,543 - Zoom - Original: 94.00, Scaled: 22.90, Desired address: 5296
+2025-05-12 17:49:45,064 - Current zoom address: 5296
+2025-05-12 17:49:45,115 - Focus - Original: 175.00, Scaled: 233.20, Desired address: 4942
+2025-05-12 17:49:45,742 - Current focus address: 4942
+2025-05-12 17:49:45,793 - Step 16/164
+2025-05-12 17:49:45,794 - Zoom - Original: 95.00, Scaled: 24.47, Desired address: 5380
+2025-05-12 17:49:46,324 - Current zoom address: 5380
+2025-05-12 17:49:46,375 - Focus - Original: 174.00, Scaled: 231.12, Desired address: 4922
+2025-05-12 17:49:47,005 - Current focus address: 4922
+2025-05-12 17:49:47,056 - Step 17/164
+2025-05-12 17:49:47,057 - Zoom - Original: 96.00, Scaled: 26.03, Desired address: 5465
+2025-05-12 17:49:47,577 - Current zoom address: 5465
+2025-05-12 17:49:47,628 - Focus - Original: 173.00, Scaled: 229.05, Desired address: 4903
+2025-05-12 17:49:48,256 - Current focus address: 4903
+2025-05-12 17:49:48,307 - Step 18/164
+2025-05-12 17:49:48,308 - Zoom - Original: 97.00, Scaled: 27.60, Desired address: 5550
+2025-05-12 17:49:48,828 - Current zoom address: 5550
+2025-05-12 17:49:48,879 - Focus - Original: 172.00, Scaled: 226.98, Desired address: 4883
+2025-05-12 17:49:49,505 - Current focus address: 4883
+2025-05-12 17:49:49,556 - Step 19/164
+2025-05-12 17:49:49,556 - Zoom - Original: 98.00, Scaled: 29.16, Desired address: 5634
+2025-05-12 17:49:50,075 - Current zoom address: 5634
+2025-05-12 17:49:50,126 - Focus - Original: 172.00, Scaled: 226.98, Desired address: 4883
+2025-05-12 17:49:52,423 - Current focus address: 4883
+2025-05-12 17:49:52,474 - Step 20/164
+2025-05-12 17:49:52,475 - Zoom - Original: 99.00, Scaled: 30.72, Desired address: 5719
+2025-05-12 17:49:52,997 - Current zoom address: 5719
+2025-05-12 17:49:53,048 - Focus - Original: 171.00, Scaled: 224.90, Desired address: 4863
+2025-05-12 17:49:53,675 - Current focus address: 4863
+2025-05-12 17:49:53,726 - Step 21/164
+2025-05-12 17:49:53,727 - Zoom - Original: 100.00, Scaled: 32.29, Desired address: 5804
+2025-05-12 17:49:54,247 - Current zoom address: 5804
+2025-05-12 17:49:54,298 - Focus - Original: 170.00, Scaled: 222.83, Desired address: 4844
+2025-05-12 17:49:54,926 - Current focus address: 4844
+2025-05-12 17:49:54,977 - Step 22/164
+2025-05-12 17:49:54,978 - Zoom - Original: 101.00, Scaled: 33.85, Desired address: 5888
+2025-05-12 17:49:55,502 - Current zoom address: 5888
+2025-05-12 17:49:55,554 - Focus - Original: 169.00, Scaled: 220.76, Desired address: 4824
+2025-05-12 17:49:56,178 - Current focus address: 4824
+2025-05-12 17:49:56,229 - Step 23/164
+2025-05-12 17:49:56,230 - Zoom - Original: 102.00, Scaled: 35.42, Desired address: 5973
+2025-05-12 17:49:56,753 - Current zoom address: 5973
+2025-05-12 17:49:56,804 - Focus - Original: 168.00, Scaled: 218.68, Desired address: 4804
+2025-05-12 17:49:57,430 - Current focus address: 4804
+2025-05-12 17:49:57,481 - Step 24/164
+2025-05-12 17:49:57,482 - Zoom - Original: 103.00, Scaled: 36.98, Desired address: 6058
+2025-05-12 17:49:58,007 - Current zoom address: 6058
+2025-05-12 17:49:58,058 - Focus - Original: 167.00, Scaled: 216.61, Desired address: 4785
+2025-05-12 17:49:58,688 - Current focus address: 4785
+2025-05-12 17:49:58,739 - Step 25/164
+2025-05-12 17:49:58,740 - Zoom - Original: 104.00, Scaled: 38.55, Desired address: 6142
+2025-05-12 17:49:59,259 - Current zoom address: 6142
+2025-05-12 17:49:59,310 - Focus - Original: 166.00, Scaled: 214.54, Desired address: 4765
+2025-05-12 17:49:59,938 - Current focus address: 4765
+2025-05-12 17:49:59,989 - Step 26/164
+2025-05-12 17:49:59,990 - Zoom - Original: 105.00, Scaled: 40.11, Desired address: 6227
+2025-05-12 17:50:00,508 - Current zoom address: 6227
+2025-05-12 17:50:00,605 - Focus - Original: 166.00, Scaled: 214.54, Desired address: 4765
+2025-05-12 17:50:02,930 - Current focus address: 4765
+2025-05-12 17:50:02,981 - Step 27/164
+2025-05-12 17:50:02,982 - Zoom - Original: 106.00, Scaled: 41.67, Desired address: 6312
+2025-05-12 17:50:03,506 - Current zoom address: 6312
+2025-05-12 17:50:03,557 - Focus - Original: 165.00, Scaled: 212.46, Desired address: 4745
+2025-05-12 17:50:04,186 - Current focus address: 4745
+2025-05-12 17:50:04,237 - Step 28/164
+2025-05-12 17:50:04,238 - Zoom - Original: 107.00, Scaled: 43.24, Desired address: 6396
+2025-05-12 17:50:04,760 - Current zoom address: 6396
+2025-05-12 17:50:04,811 - Focus - Original: 164.00, Scaled: 210.39, Desired address: 4726
+2025-05-12 17:50:05,438 - Current focus address: 4726
+2025-05-12 17:50:05,489 - Step 29/164
+2025-05-12 17:50:05,489 - Zoom - Original: 108.00, Scaled: 44.80, Desired address: 6481
+2025-05-12 17:50:06,010 - Current zoom address: 6481
+2025-05-12 17:50:06,061 - Focus - Original: 163.00, Scaled: 208.32, Desired address: 4706
+2025-05-12 17:50:06,690 - Current focus address: 4706
+2025-05-12 17:50:06,741 - Step 30/164
+2025-05-12 17:50:06,742 - Zoom - Original: 109.00, Scaled: 46.37, Desired address: 6566
+2025-05-12 17:50:07,261 - Current zoom address: 6566
+2025-05-12 17:50:07,312 - Focus - Original: 162.00, Scaled: 206.24, Desired address: 4686
+2025-05-12 17:50:07,942 - Current focus address: 4686
+2025-05-12 17:50:07,993 - Step 31/164
+2025-05-12 17:50:07,994 - Zoom - Original: 110.00, Scaled: 47.93, Desired address: 6650
+2025-05-12 17:50:08,519 - Current zoom address: 6650
+2025-05-12 17:50:08,571 - Focus - Original: 161.00, Scaled: 204.17, Desired address: 4667
+2025-05-12 17:50:09,197 - Current focus address: 4667
+2025-05-12 17:50:09,249 - Step 32/164
+2025-05-12 17:50:09,252 - Zoom - Original: 111.00, Scaled: 49.50, Desired address: 6735
+2025-05-12 17:50:09,786 - Current zoom address: 6735
+2025-05-12 17:50:09,839 - Focus - Original: 160.00, Scaled: 202.10, Desired address: 4647
+2025-05-12 17:50:10,465 - Current focus address: 4647
+2025-05-12 17:50:10,520 - Step 33/164
+2025-05-12 17:50:10,521 - Zoom - Original: 112.00, Scaled: 51.06, Desired address: 6820
+2025-05-12 17:50:11,041 - Current zoom address: 6820
+2025-05-12 17:50:11,092 - Focus - Original: 159.00, Scaled: 200.02, Desired address: 4627
+2025-05-12 17:50:11,726 - Current focus address: 4627
+2025-05-12 17:50:11,777 - Step 34/164
+2025-05-12 17:50:11,778 - Zoom - Original: 113.00, Scaled: 52.63, Desired address: 6904
+2025-05-12 17:50:12,298 - Current zoom address: 6904
+2025-05-12 17:50:12,354 - Focus - Original: 159.00, Scaled: 200.02, Desired address: 4627
+2025-05-12 17:50:14,651 - Current focus address: 4627
+2025-05-12 17:50:14,704 - Step 35/164
+2025-05-12 17:50:14,705 - Zoom - Original: 114.00, Scaled: 54.19, Desired address: 6989
+2025-05-12 17:50:15,227 - Current zoom address: 6989
+2025-05-12 17:50:15,278 - Focus - Original: 158.00, Scaled: 197.95, Desired address: 4608
+2025-05-12 17:50:15,911 - Current focus address: 4608
+2025-05-12 17:50:15,962 - Step 36/164
+2025-05-12 17:50:15,962 - Zoom - Original: 115.00, Scaled: 55.75, Desired address: 7074
+2025-05-12 17:50:16,498 - Current zoom address: 7074
+2025-05-12 17:50:16,549 - Focus - Original: 157.00, Scaled: 195.88, Desired address: 4588
+2025-05-12 17:50:17,179 - Current focus address: 4588
+2025-05-12 17:50:17,230 - Step 37/164
+2025-05-12 17:50:17,231 - Zoom - Original: 116.00, Scaled: 57.32, Desired address: 7158
+2025-05-12 17:50:17,762 - Current zoom address: 7158
+2025-05-12 17:50:17,814 - Focus - Original: 156.00, Scaled: 193.80, Desired address: 4568
+2025-05-12 17:50:18,442 - Current focus address: 4568
+2025-05-12 17:50:18,493 - Step 38/164
+2025-05-12 17:50:18,494 - Zoom - Original: 117.00, Scaled: 58.88, Desired address: 7243
+2025-05-12 17:50:19,013 - Current zoom address: 7243
+2025-05-12 17:50:19,064 - Focus - Original: 155.00, Scaled: 191.73, Desired address: 4549
+2025-05-12 17:50:19,692 - Current focus address: 4549
+2025-05-12 17:50:19,743 - Step 39/164
+2025-05-12 17:50:19,744 - Zoom - Original: 118.00, Scaled: 60.45, Desired address: 7328
+2025-05-12 17:50:20,271 - Current zoom address: 7328
+2025-05-12 17:50:20,324 - Focus - Original: 154.00, Scaled: 189.66, Desired address: 4529
+2025-05-12 17:50:20,954 - Current focus address: 4529
+2025-05-12 17:50:21,005 - Step 40/164
+2025-05-12 17:50:21,006 - Zoom - Original: 119.00, Scaled: 62.01, Desired address: 7412
+2025-05-12 17:50:21,536 - Current zoom address: 7412
+2025-05-12 17:50:21,587 - Focus - Original: 153.00, Scaled: 187.59, Desired address: 4509
+2025-05-12 17:50:22,213 - Current focus address: 4509
+2025-05-12 17:50:22,264 - Step 41/164
+2025-05-12 17:50:22,265 - Zoom - Original: 120.00, Scaled: 63.58, Desired address: 7497
+2025-05-12 17:50:22,793 - Current zoom address: 7497
+2025-05-12 17:50:22,843 - Focus - Original: 152.00, Scaled: 185.51, Desired address: 4490
+2025-05-12 17:50:23,477 - Current focus address: 4490
+2025-05-12 17:50:23,531 - Step 42/164
+2025-05-12 17:50:23,532 - Zoom - Original: 121.00, Scaled: 65.14, Desired address: 7582
+2025-05-12 17:50:24,056 - Current zoom address: 7582
+2025-05-12 17:50:24,107 - Focus - Original: 151.00, Scaled: 183.44, Desired address: 4470
+2025-05-12 17:50:24,732 - Current focus address: 4470
+2025-05-12 17:50:24,786 - Step 43/164
+2025-05-12 17:50:24,787 - Zoom - Original: 122.00, Scaled: 66.71, Desired address: 7666
+2025-05-12 17:50:25,318 - Current zoom address: 7666
+2025-05-12 17:50:25,369 - Focus - Original: 150.00, Scaled: 181.37, Desired address: 4450
+2025-05-12 17:50:25,994 - Current focus address: 4450
+2025-05-12 17:50:26,045 - Step 44/164
+2025-05-12 17:50:26,045 - Zoom - Original: 123.00, Scaled: 68.27, Desired address: 7751
+2025-05-12 17:50:26,564 - Current zoom address: 7751
+2025-05-12 17:50:26,615 - Focus - Original: 149.00, Scaled: 179.29, Desired address: 4431
+2025-05-12 17:50:27,240 - Current focus address: 4431
+2025-05-12 17:50:27,291 - Step 45/164
+2025-05-12 17:50:27,292 - Zoom - Original: 124.00, Scaled: 69.83, Desired address: 7836
+2025-05-12 17:50:27,812 - Current zoom address: 7836
+2025-05-12 17:50:27,863 - Focus - Original: 149.00, Scaled: 179.29, Desired address: 4431
+2025-05-12 17:50:30,155 - Current focus address: 4431
+2025-05-12 17:50:30,206 - Step 46/164
+2025-05-12 17:50:30,207 - Zoom - Original: 125.00, Scaled: 71.40, Desired address: 7920
+2025-05-12 17:50:30,726 - Current zoom address: 7920
+2025-05-12 17:50:30,777 - Focus - Original: 148.00, Scaled: 177.22, Desired address: 4411
+2025-05-12 17:50:31,403 - Current focus address: 4411
+2025-05-12 17:50:31,454 - Step 47/164
+2025-05-12 17:50:31,455 - Zoom - Original: 126.00, Scaled: 72.96, Desired address: 8005
+2025-05-12 17:50:31,975 - Current zoom address: 8005
+2025-05-12 17:50:32,026 - Focus - Original: 147.00, Scaled: 175.15, Desired address: 4391
+2025-05-12 17:50:32,651 - Current focus address: 4391
+2025-05-12 17:50:32,703 - Step 48/164
+2025-05-12 17:50:32,704 - Zoom - Original: 127.00, Scaled: 74.53, Desired address: 8090
+2025-05-12 17:50:33,224 - Current zoom address: 8090
+2025-05-12 17:50:33,275 - Focus - Original: 146.00, Scaled: 173.07, Desired address: 4372
+2025-05-12 17:50:33,901 - Current focus address: 4372
+2025-05-12 17:50:33,953 - Step 49/164
+2025-05-12 17:50:33,954 - Zoom - Original: 128.00, Scaled: 76.09, Desired address: 8174
+2025-05-12 17:50:34,475 - Current zoom address: 8174
+2025-05-12 17:50:34,526 - Focus - Original: 145.00, Scaled: 171.00, Desired address: 4352
+2025-05-12 17:50:35,151 - Current focus address: 4352
+2025-05-12 17:50:35,202 - Step 50/164
+2025-05-12 17:50:35,202 - Zoom - Original: 129.00, Scaled: 77.66, Desired address: 8259
+2025-05-12 17:50:35,742 - Current zoom address: 8259
+2025-05-12 17:50:35,793 - Focus - Original: 144.00, Scaled: 168.93, Desired address: 4332
+2025-05-12 17:50:36,418 - Current focus address: 4332
+2025-05-12 17:50:36,469 - Step 51/164
+2025-05-12 17:50:36,470 - Zoom - Original: 130.00, Scaled: 79.22, Desired address: 8344
+2025-05-12 17:50:36,988 - Current zoom address: 8344
+2025-05-12 17:50:37,039 - Focus - Original: 143.00, Scaled: 166.85, Desired address: 4312
+2025-05-12 17:50:37,662 - Current focus address: 4312
+2025-05-12 17:50:37,713 - Step 52/164
+2025-05-12 17:50:37,713 - Zoom - Original: 131.00, Scaled: 80.79, Desired address: 8428
+2025-05-12 17:50:38,234 - Current zoom address: 8428
+2025-05-12 17:50:38,285 - Focus - Original: 142.00, Scaled: 164.78, Desired address: 4293
+2025-05-12 17:50:38,909 - Current focus address: 4293
+2025-05-12 17:50:38,960 - Step 53/164
+2025-05-12 17:50:38,960 - Zoom - Original: 132.00, Scaled: 82.35, Desired address: 8513
+2025-05-12 17:50:39,481 - Current zoom address: 8513
+2025-05-12 17:50:39,532 - Focus - Original: 141.00, Scaled: 162.71, Desired address: 4273
+2025-05-12 17:50:40,161 - Current focus address: 4273
+2025-05-12 17:50:40,212 - Step 54/164
+2025-05-12 17:50:40,212 - Zoom - Original: 133.00, Scaled: 83.91, Desired address: 8598
+2025-05-12 17:50:40,732 - Current zoom address: 8598
+2025-05-12 17:50:40,785 - Focus - Original: 140.00, Scaled: 160.63, Desired address: 4253
+2025-05-12 17:50:41,412 - Current focus address: 4253
+2025-05-12 17:50:41,463 - Step 55/164
+2025-05-12 17:50:41,463 - Zoom - Original: 134.00, Scaled: 85.48, Desired address: 8682
+2025-05-12 17:50:41,984 - Current zoom address: 8682
+2025-05-12 17:50:42,036 - Focus - Original: 139.00, Scaled: 158.56, Desired address: 4234
+2025-05-12 17:50:42,660 - Current focus address: 4234
+2025-05-12 17:50:42,711 - Step 56/164
+2025-05-12 17:50:42,711 - Zoom - Original: 135.00, Scaled: 87.04, Desired address: 8767
+2025-05-12 17:50:43,231 - Current zoom address: 8767
+2025-05-12 17:50:43,282 - Focus - Original: 138.00, Scaled: 156.49, Desired address: 4214
+2025-05-12 17:50:43,905 - Current focus address: 4214
+2025-05-12 17:50:43,956 - Step 57/164
+2025-05-12 17:50:43,956 - Zoom - Original: 136.00, Scaled: 88.61, Desired address: 8852
+2025-05-12 17:50:44,474 - Current zoom address: 8852
+2025-05-12 17:50:44,525 - Focus - Original: 137.00, Scaled: 154.41, Desired address: 4194
+2025-05-12 17:50:45,152 - Current focus address: 4194
+2025-05-12 17:50:45,206 - Step 58/164
+2025-05-12 17:50:45,207 - Zoom - Original: 137.00, Scaled: 90.17, Desired address: 8936
+2025-05-12 17:50:45,726 - Current zoom address: 8936
+2025-05-12 17:50:45,777 - Focus - Original: 136.00, Scaled: 152.34, Desired address: 4175
+2025-05-12 17:50:46,401 - Current focus address: 4175
+2025-05-12 17:50:46,452 - Step 59/164
+2025-05-12 17:50:46,453 - Zoom - Original: 138.00, Scaled: 91.74, Desired address: 9021
+2025-05-12 17:50:46,971 - Current zoom address: 9021
+2025-05-12 17:50:47,022 - Focus - Original: 135.00, Scaled: 150.27, Desired address: 4155
+2025-05-12 17:50:47,645 - Current focus address: 4155
+2025-05-12 17:50:47,696 - Step 60/164
+2025-05-12 17:50:47,696 - Zoom - Original: 139.00, Scaled: 93.30, Desired address: 9106
+2025-05-12 17:50:48,218 - Current zoom address: 9106
+2025-05-12 17:50:48,269 - Focus - Original: 134.00, Scaled: 148.20, Desired address: 4135
+2025-05-12 17:50:48,846 - Current focus address: 4135
+2025-05-12 17:50:48,897 - Step 61/164
+2025-05-12 17:50:48,897 - Zoom - Original: 140.00, Scaled: 94.87, Desired address: 9190
+2025-05-12 17:50:49,418 - Current zoom address: 9190
+2025-05-12 17:50:49,469 - Focus - Original: 133.00, Scaled: 146.12, Desired address: 4116
+2025-05-12 17:50:50,094 - Current focus address: 4116
+2025-05-12 17:50:50,145 - Step 62/164
+2025-05-12 17:50:50,145 - Zoom - Original: 141.00, Scaled: 96.43, Desired address: 9275
+2025-05-12 17:50:50,670 - Current zoom address: 9275
+2025-05-12 17:50:50,721 - Focus - Original: 132.00, Scaled: 144.05, Desired address: 4096
+2025-05-12 17:50:51,345 - Current focus address: 4096
+2025-05-12 17:50:51,395 - Step 63/164
+2025-05-12 17:50:51,396 - Zoom - Original: 142.00, Scaled: 97.99, Desired address: 9360
+2025-05-12 17:50:51,914 - Current zoom address: 9360
+2025-05-12 17:50:51,965 - Focus - Original: 131.00, Scaled: 141.98, Desired address: 4076
+2025-05-12 17:50:52,590 - Current focus address: 4076
+2025-05-12 17:50:52,641 - Step 64/164
+2025-05-12 17:50:52,642 - Zoom - Original: 143.00, Scaled: 99.56, Desired address: 9444
+2025-05-12 17:50:53,174 - Current zoom address: 9444
+2025-05-12 17:50:53,225 - Focus - Original: 130.00, Scaled: 139.90, Desired address: 4057
+2025-05-12 17:50:53,857 - Current focus address: 4057
+2025-05-12 17:50:53,908 - Step 65/164
+2025-05-12 17:50:53,908 - Zoom - Original: 144.00, Scaled: 101.12, Desired address: 9529
+2025-05-12 17:50:54,426 - Current zoom address: 9529
+2025-05-12 17:50:54,477 - Focus - Original: 129.00, Scaled: 137.83, Desired address: 4037
+2025-05-12 17:50:55,105 - Current focus address: 4037
+2025-05-12 17:50:55,157 - Step 66/164
+2025-05-12 17:50:55,158 - Zoom - Original: 145.00, Scaled: 102.69, Desired address: 9614
+2025-05-12 17:50:55,682 - Current zoom address: 9614
+2025-05-12 17:50:55,737 - Focus - Original: 129.00, Scaled: 137.83, Desired address: 4037
+2025-05-12 17:50:58,097 - Current focus address: 4037
+2025-05-12 17:50:58,148 - Step 67/164
+2025-05-12 17:50:58,153 - Zoom - Original: 146.00, Scaled: 104.25, Desired address: 9698
+2025-05-12 17:50:58,673 - Current zoom address: 9698
+2025-05-12 17:50:58,724 - Focus - Original: 128.00, Scaled: 135.76, Desired address: 4017
+2025-05-12 17:50:59,353 - Current focus address: 4017
+2025-05-12 17:50:59,406 - Step 68/164
+2025-05-12 17:50:59,410 - Zoom - Original: 147.00, Scaled: 105.82, Desired address: 9783
+2025-05-12 17:50:59,931 - Current zoom address: 9783
+2025-05-12 17:50:59,986 - Focus - Original: 127.00, Scaled: 133.68, Desired address: 3998
+2025-05-12 17:51:00,613 - Current focus address: 3998
+2025-05-12 17:51:00,663 - Step 69/164
+2025-05-12 17:51:00,664 - Zoom - Original: 148.00, Scaled: 107.38, Desired address: 9868
+2025-05-12 17:51:01,192 - Current zoom address: 9868
+2025-05-12 17:51:01,243 - Focus - Original: 126.00, Scaled: 131.61, Desired address: 3978
+2025-05-12 17:51:01,871 - Current focus address: 3978
+2025-05-12 17:51:01,924 - Step 70/164
+2025-05-12 17:51:01,925 - Zoom - Original: 149.00, Scaled: 108.94, Desired address: 9952
+2025-05-12 17:51:02,447 - Current zoom address: 9952
+2025-05-12 17:51:02,504 - Focus - Original: 125.00, Scaled: 129.54, Desired address: 3958
+2025-05-12 17:51:03,132 - Current focus address: 3958
+2025-05-12 17:51:03,185 - Step 71/164
+2025-05-12 17:51:03,186 - Zoom - Original: 150.00, Scaled: 110.51, Desired address: 10037
+2025-05-12 17:51:03,707 - Current zoom address: 10037
+2025-05-12 17:51:03,758 - Focus - Original: 124.00, Scaled: 127.46, Desired address: 3939
+2025-05-12 17:51:04,389 - Current focus address: 3939
+2025-05-12 17:51:04,439 - Step 72/164
+2025-05-12 17:51:04,441 - Zoom - Original: 151.00, Scaled: 112.07, Desired address: 10122
+2025-05-12 17:51:04,963 - Current zoom address: 10122
+2025-05-12 17:51:05,015 - Focus - Original: 123.00, Scaled: 125.39, Desired address: 3919
+2025-05-12 17:51:05,643 - Current focus address: 3919
+2025-05-12 17:51:05,694 - Step 73/164
+2025-05-12 17:51:05,696 - Zoom - Original: 152.00, Scaled: 113.64, Desired address: 10206
+2025-05-12 17:51:06,221 - Current zoom address: 10206
+2025-05-12 17:51:06,273 - Focus - Original: 122.00, Scaled: 123.32, Desired address: 3899
+2025-05-12 17:51:06,964 - Current focus address: 3899
+2025-05-12 17:51:07,019 - Step 74/164
+2025-05-12 17:51:07,022 - Zoom - Original: 153.00, Scaled: 115.20, Desired address: 10291
+2025-05-12 17:51:07,542 - Current zoom address: 10291
+2025-05-12 17:51:07,593 - Focus - Original: 121.00, Scaled: 121.24, Desired address: 3880
+2025-05-12 17:51:08,242 - Current focus address: 3880
+2025-05-12 17:51:08,293 - Step 75/164
+2025-05-12 17:51:08,294 - Zoom - Original: 154.00, Scaled: 116.77, Desired address: 10376
+2025-05-12 17:51:08,814 - Current zoom address: 10376
+2025-05-12 17:51:08,865 - Focus - Original: 120.00, Scaled: 119.17, Desired address: 3860
+2025-05-12 17:51:09,495 - Current focus address: 3860
+2025-05-12 17:51:09,546 - Step 76/164
+2025-05-12 17:51:09,546 - Zoom - Original: 155.00, Scaled: 118.33, Desired address: 10460
+2025-05-12 17:51:10,064 - Current zoom address: 10460
+2025-05-12 17:51:10,115 - Focus - Original: 119.00, Scaled: 117.10, Desired address: 3840
+2025-05-12 17:51:10,741 - Current focus address: 3840
+2025-05-12 17:51:10,793 - Step 77/164
+2025-05-12 17:51:10,794 - Zoom - Original: 156.00, Scaled: 119.90, Desired address: 10545
+2025-05-12 17:51:11,313 - Current zoom address: 10545
+2025-05-12 17:51:11,365 - Focus - Original: 118.00, Scaled: 115.02, Desired address: 3821
+2025-05-12 17:51:11,993 - Current focus address: 3821
+2025-05-12 17:51:12,044 - Step 78/164
+2025-05-12 17:51:12,045 - Zoom - Original: 157.00, Scaled: 121.46, Desired address: 10630
+2025-05-12 17:51:12,564 - Current zoom address: 10630
+2025-05-12 17:51:12,615 - Focus - Original: 117.00, Scaled: 112.95, Desired address: 3801
+2025-05-12 17:51:13,245 - Current focus address: 3801
+2025-05-12 17:51:13,296 - Step 79/164
+2025-05-12 17:51:13,296 - Zoom - Original: 158.00, Scaled: 123.02, Desired address: 10714
+2025-05-12 17:51:13,819 - Current zoom address: 10714
+2025-05-12 17:51:13,871 - Focus - Original: 116.00, Scaled: 110.88, Desired address: 3781
+2025-05-12 17:51:14,525 - Current focus address: 3781
+2025-05-12 17:51:14,577 - Step 80/164
+2025-05-12 17:51:14,578 - Zoom - Original: 159.00, Scaled: 124.59, Desired address: 10799
+2025-05-12 17:51:15,101 - Current zoom address: 10799
+2025-05-12 17:51:15,156 - Focus - Original: 115.00, Scaled: 108.80, Desired address: 3762
+2025-05-12 17:51:15,788 - Current focus address: 3762
+2025-05-12 17:51:15,839 - Step 81/164
+2025-05-12 17:51:15,840 - Zoom - Original: 160.00, Scaled: 126.15, Desired address: 10884
+2025-05-12 17:51:16,361 - Current zoom address: 10884
+2025-05-12 17:51:16,413 - Focus - Original: 114.00, Scaled: 106.73, Desired address: 3742
+2025-05-12 17:51:17,041 - Current focus address: 3742
+2025-05-12 17:51:17,092 - Step 82/164
+2025-05-12 17:51:17,093 - Zoom - Original: 161.00, Scaled: 127.72, Desired address: 10968
+2025-05-12 17:51:17,614 - Current zoom address: 10968
+2025-05-12 17:51:17,668 - Focus - Original: 113.00, Scaled: 104.66, Desired address: 3722
+2025-05-12 17:51:18,297 - Current focus address: 3722
+2025-05-12 17:51:18,349 - Step 83/164
+2025-05-12 17:51:18,353 - Zoom - Original: 162.00, Scaled: 129.28, Desired address: 11053
+2025-05-12 17:51:18,875 - Current zoom address: 11053
+2025-05-12 17:51:18,926 - Focus - Original: 112.00, Scaled: 102.59, Desired address: 3703
+2025-05-12 17:51:19,565 - Current focus address: 3703
+2025-05-12 17:51:19,621 - Step 84/164
+2025-05-12 17:51:19,622 - Zoom - Original: 163.00, Scaled: 130.85, Desired address: 11137
+2025-05-12 17:51:20,146 - Current zoom address: 11137
+2025-05-12 17:51:20,197 - Focus - Original: 111.00, Scaled: 100.51, Desired address: 3683
+2025-05-12 17:51:20,822 - Current focus address: 3683
+2025-05-12 17:51:20,873 - Step 85/164
+2025-05-12 17:51:20,874 - Zoom - Original: 164.00, Scaled: 132.41, Desired address: 11222
+2025-05-12 17:51:21,394 - Current zoom address: 11222
+2025-05-12 17:51:21,445 - Focus - Original: 110.00, Scaled: 98.44, Desired address: 3663
+2025-05-12 17:51:22,074 - Current focus address: 3663
+2025-05-12 17:51:25,288 - Connecting to device 0
+2025-05-12 17:51:26,662 - Device connected successfully
+2025-05-12 17:51:32,418 - Set zoom speed (default or max)
+2025-05-12 17:51:34,599 - Set focus speed (default or max)
+2025-05-12 17:51:34,603 - Generated 164 zoom and focus value pairs
+2025-05-12 17:51:34,604 - Loaded 164 zoom and focus value pairs from generator
+2025-05-12 17:51:34,609 - Step 1/164
+2025-05-12 17:51:34,613 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 17:51:38,656 - Current zoom address: 4111
+2025-05-12 17:51:38,707 - Focus - Original: 186.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 17:51:39,875 - Current focus address: 5159
+2025-05-12 17:51:39,926 - Step 2/164
+2025-05-12 17:51:39,927 - Zoom - Original: 81.00, Scaled: 2.56, Desired address: 4195
+2025-05-12 17:51:40,357 - Current zoom address: 4195
+2025-05-12 17:51:40,408 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 17:51:40,948 - Current focus address: 5139
+2025-05-12 17:51:41,003 - Step 3/164
+2025-05-12 17:51:41,003 - Zoom - Original: 82.00, Scaled: 4.13, Desired address: 4280
+2025-05-12 17:51:41,436 - Current zoom address: 4280
+2025-05-12 17:51:41,487 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 17:51:43,694 - Current focus address: 5139
+2025-05-12 17:51:43,745 - Step 4/164
+2025-05-12 17:51:43,745 - Zoom - Original: 83.00, Scaled: 5.69, Desired address: 4364
+2025-05-12 17:51:44,177 - Current zoom address: 4364
+2025-05-12 17:51:44,228 - Focus - Original: 184.00, Scaled: 251.85, Desired address: 5119
+2025-05-12 17:51:44,765 - Current focus address: 5119
+2025-05-12 17:51:44,820 - Step 5/164
+2025-05-12 17:51:44,820 - Zoom - Original: 84.00, Scaled: 7.26, Desired address: 4449
+2025-05-12 17:51:45,254 - Current zoom address: 4449
+2025-05-12 17:51:45,305 - Focus - Original: 183.00, Scaled: 249.78, Desired address: 5099
+2025-05-12 17:51:45,841 - Current focus address: 5099
+2025-05-12 17:51:45,892 - Step 6/164
+2025-05-12 17:51:45,893 - Zoom - Original: 85.00, Scaled: 8.82, Desired address: 4534
+2025-05-12 17:51:46,324 - Current zoom address: 4534
+2025-05-12 17:51:46,375 - Focus - Original: 182.00, Scaled: 247.71, Desired address: 5080
+2025-05-12 17:51:46,909 - Current focus address: 5080
+2025-05-12 17:51:46,960 - Step 7/164
+2025-05-12 17:51:46,960 - Zoom - Original: 86.00, Scaled: 10.39, Desired address: 4618
+2025-05-12 17:51:47,391 - Current zoom address: 4618
+2025-05-12 17:51:47,442 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 17:51:47,986 - Current focus address: 5060
+2025-05-12 17:51:48,037 - Step 8/164
+2025-05-12 17:51:48,038 - Zoom - Original: 87.00, Scaled: 11.95, Desired address: 4703
+2025-05-12 17:51:48,469 - Current zoom address: 4703
+2025-05-12 17:51:48,520 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 17:51:50,728 - Current focus address: 5060
+2025-05-12 17:51:50,780 - Step 9/164
+2025-05-12 17:51:50,780 - Zoom - Original: 88.00, Scaled: 13.52, Desired address: 4788
+2025-05-12 17:51:51,210 - Current zoom address: 4788
+2025-05-12 17:51:51,261 - Focus - Original: 180.00, Scaled: 243.56, Desired address: 5040
+2025-05-12 17:51:51,798 - Current focus address: 5040
+2025-05-12 17:51:51,853 - Step 10/164
+2025-05-12 17:51:51,854 - Zoom - Original: 89.00, Scaled: 15.08, Desired address: 4872
+2025-05-12 17:51:52,286 - Current zoom address: 4872
+2025-05-12 17:51:52,337 - Focus - Original: 179.00, Scaled: 241.49, Desired address: 5021
+2025-05-12 17:51:52,873 - Current focus address: 5021
+2025-05-12 17:51:52,924 - Step 11/164
+2025-05-12 17:51:52,924 - Zoom - Original: 90.00, Scaled: 16.64, Desired address: 4957
+2025-05-12 17:51:53,355 - Current zoom address: 4957
+2025-05-12 17:51:53,406 - Focus - Original: 178.00, Scaled: 239.41, Desired address: 5001
+2025-05-12 17:51:53,941 - Current focus address: 5001
+2025-05-12 17:51:53,992 - Step 12/164
+2025-05-12 17:51:53,993 - Zoom - Original: 91.00, Scaled: 18.21, Desired address: 5042
+2025-05-12 17:51:54,424 - Current zoom address: 5042
+2025-05-12 17:51:54,475 - Focus - Original: 177.00, Scaled: 237.34, Desired address: 4981
+2025-05-12 17:51:55,011 - Current focus address: 4981
+2025-05-12 17:51:55,062 - Step 13/164
+2025-05-12 17:51:55,063 - Zoom - Original: 92.00, Scaled: 19.77, Desired address: 5126
+2025-05-12 17:51:55,493 - Current zoom address: 5126
+2025-05-12 17:51:55,545 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 17:51:56,081 - Current focus address: 4962
+2025-05-12 17:51:56,136 - Step 14/164
+2025-05-12 17:51:56,137 - Zoom - Original: 93.00, Scaled: 21.34, Desired address: 5211
+2025-05-12 17:51:56,572 - Current zoom address: 5211
+2025-05-12 17:51:56,623 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 17:51:58,838 - Current focus address: 4962
+2025-05-12 17:51:58,889 - Step 15/164
+2025-05-12 17:51:58,889 - Zoom - Original: 94.00, Scaled: 22.90, Desired address: 5296
+2025-05-12 17:51:59,323 - Current zoom address: 5296
+2025-05-12 17:51:59,375 - Focus - Original: 175.00, Scaled: 233.20, Desired address: 4942
+2025-05-12 17:51:59,910 - Current focus address: 4942
+2025-05-12 17:51:59,961 - Step 16/164
+2025-05-12 17:51:59,961 - Zoom - Original: 95.00, Scaled: 24.47, Desired address: 5380
+2025-05-12 17:52:00,391 - Current zoom address: 5380
+2025-05-12 17:52:00,442 - Focus - Original: 174.00, Scaled: 231.12, Desired address: 4922
+2025-05-12 17:52:00,978 - Current focus address: 4922
+2025-05-12 17:52:01,028 - Step 17/164
+2025-05-12 17:52:01,029 - Zoom - Original: 96.00, Scaled: 26.03, Desired address: 5465
+2025-05-12 17:52:01,459 - Current zoom address: 5465
+2025-05-12 17:52:01,510 - Focus - Original: 173.00, Scaled: 229.05, Desired address: 4903
+2025-05-12 17:52:02,045 - Current focus address: 4903
+2025-05-12 17:52:02,096 - Step 18/164
+2025-05-12 17:52:02,097 - Zoom - Original: 97.00, Scaled: 27.60, Desired address: 5550
+2025-05-12 17:52:02,529 - Current zoom address: 5550
+2025-05-12 17:52:02,580 - Focus - Original: 172.00, Scaled: 226.98, Desired address: 4883
+2025-05-12 17:52:03,117 - Current focus address: 4883
+2025-05-12 17:52:03,169 - Step 19/164
+2025-05-12 17:52:03,170 - Zoom - Original: 98.00, Scaled: 29.16, Desired address: 5634
+2025-05-12 17:52:03,605 - Current zoom address: 5634
+2025-05-12 17:52:03,656 - Focus - Original: 172.00, Scaled: 226.98, Desired address: 4883
+2025-05-12 17:52:05,871 - Current focus address: 4883
+2025-05-12 17:52:05,922 - Step 20/164
+2025-05-12 17:52:05,923 - Zoom - Original: 99.00, Scaled: 30.72, Desired address: 5719
+2025-05-12 17:52:06,357 - Current zoom address: 5719
+2025-05-12 17:52:06,408 - Focus - Original: 171.00, Scaled: 224.90, Desired address: 4863
+2025-05-12 17:52:06,943 - Current focus address: 4863
+2025-05-12 17:52:06,994 - Step 21/164
+2025-05-12 17:52:06,995 - Zoom - Original: 100.00, Scaled: 32.29, Desired address: 5804
+2025-05-12 17:52:07,427 - Current zoom address: 5804
+2025-05-12 17:52:07,478 - Focus - Original: 170.00, Scaled: 222.83, Desired address: 4844
+2025-05-12 17:52:08,019 - Current focus address: 4844
+2025-05-12 17:52:08,071 - Step 22/164
+2025-05-12 17:52:08,071 - Zoom - Original: 101.00, Scaled: 33.85, Desired address: 5888
+2025-05-12 17:52:08,506 - Current zoom address: 5888
+2025-05-12 17:52:08,557 - Focus - Original: 169.00, Scaled: 220.76, Desired address: 4824
+2025-05-12 17:52:09,095 - Current focus address: 4824
+2025-05-12 17:52:09,146 - Step 23/164
+2025-05-12 17:52:09,146 - Zoom - Original: 102.00, Scaled: 35.42, Desired address: 5973
+2025-05-12 17:52:09,578 - Current zoom address: 5973
+2025-05-12 17:52:09,630 - Focus - Original: 168.00, Scaled: 218.68, Desired address: 4804
+2025-05-12 17:52:10,169 - Current focus address: 4804
+2025-05-12 17:52:10,221 - Step 24/164
+2025-05-12 17:52:10,222 - Zoom - Original: 103.00, Scaled: 36.98, Desired address: 6058
+2025-05-12 17:52:10,653 - Current zoom address: 6058
+2025-05-12 17:52:10,704 - Focus - Original: 167.00, Scaled: 216.61, Desired address: 4785
+2025-05-12 17:52:11,239 - Current focus address: 4785
+2025-05-12 17:52:11,290 - Step 25/164
+2025-05-12 17:52:11,290 - Zoom - Original: 104.00, Scaled: 38.55, Desired address: 6142
+2025-05-12 17:52:11,721 - Current zoom address: 6142
+2025-05-12 17:52:11,772 - Focus - Original: 166.00, Scaled: 214.54, Desired address: 4765
+2025-05-12 17:52:12,309 - Current focus address: 4765
+2025-05-12 17:52:12,360 - Step 26/164
+2025-05-12 17:52:12,361 - Zoom - Original: 105.00, Scaled: 40.11, Desired address: 6227
+2025-05-12 17:52:12,792 - Current zoom address: 6227
+2025-05-12 17:52:12,843 - Focus - Original: 166.00, Scaled: 214.54, Desired address: 4765
+2025-05-12 17:52:15,053 - Current focus address: 4765
+2025-05-12 17:52:15,175 - Step 27/164
+2025-05-12 17:52:15,176 - Zoom - Original: 106.00, Scaled: 41.67, Desired address: 6312
+2025-05-12 17:52:15,609 - Current zoom address: 6312
+2025-05-12 17:52:15,660 - Focus - Original: 165.00, Scaled: 212.46, Desired address: 4745
+2025-05-12 17:52:16,196 - Current focus address: 4745
+2025-05-12 17:52:16,247 - Step 28/164
+2025-05-12 17:52:16,248 - Zoom - Original: 107.00, Scaled: 43.24, Desired address: 6396
+2025-05-12 17:52:16,678 - Current zoom address: 6396
+2025-05-12 17:52:16,729 - Focus - Original: 164.00, Scaled: 210.39, Desired address: 4726
+2025-05-12 17:52:17,271 - Current focus address: 4726
+2025-05-12 17:52:17,323 - Step 29/164
+2025-05-12 17:52:17,324 - Zoom - Original: 108.00, Scaled: 44.80, Desired address: 6481
+2025-05-12 17:52:17,756 - Current zoom address: 6481
+2025-05-12 17:52:17,807 - Focus - Original: 163.00, Scaled: 208.32, Desired address: 4706
+2025-05-12 17:52:18,343 - Current focus address: 4706
+2025-05-12 17:52:18,394 - Step 30/164
+2025-05-12 17:52:18,395 - Zoom - Original: 109.00, Scaled: 46.37, Desired address: 6566
+2025-05-12 17:52:18,824 - Current zoom address: 6566
+2025-05-12 17:52:18,875 - Focus - Original: 162.00, Scaled: 206.24, Desired address: 4686
+2025-05-12 17:52:19,410 - Current focus address: 4686
+2025-05-12 17:52:19,461 - Step 31/164
+2025-05-12 17:52:19,461 - Zoom - Original: 110.00, Scaled: 47.93, Desired address: 6650
+2025-05-12 17:52:19,891 - Current zoom address: 6650
+2025-05-12 17:52:19,942 - Focus - Original: 161.00, Scaled: 204.17, Desired address: 4667
+2025-05-12 17:52:20,477 - Current focus address: 4667
+2025-05-12 17:52:20,529 - Step 32/164
+2025-05-12 17:52:20,530 - Zoom - Original: 111.00, Scaled: 49.50, Desired address: 6735
+2025-05-12 17:52:20,961 - Current zoom address: 6735
+2025-05-12 17:52:21,012 - Focus - Original: 160.00, Scaled: 202.10, Desired address: 4647
+2025-05-12 17:52:21,548 - Current focus address: 4647
+2025-05-12 17:52:21,602 - Step 33/164
+2025-05-12 17:52:21,604 - Zoom - Original: 112.00, Scaled: 51.06, Desired address: 6820
+2025-05-12 17:52:22,035 - Current zoom address: 6820
+2025-05-12 17:52:22,088 - Focus - Original: 159.00, Scaled: 200.02, Desired address: 4627
+2025-05-12 17:52:22,625 - Current focus address: 4627
+2025-05-12 17:52:22,676 - Step 34/164
+2025-05-12 17:52:22,677 - Zoom - Original: 113.00, Scaled: 52.63, Desired address: 6904
+2025-05-12 17:52:23,108 - Current zoom address: 6904
+2025-05-12 17:52:23,159 - Focus - Original: 159.00, Scaled: 200.02, Desired address: 4627
+2025-05-12 17:52:25,361 - Current focus address: 4627
+2025-05-12 17:52:25,411 - Step 35/164
+2025-05-12 17:52:25,412 - Zoom - Original: 114.00, Scaled: 54.19, Desired address: 6989
+2025-05-12 17:52:25,841 - Current zoom address: 6989
+2025-05-12 17:52:25,893 - Focus - Original: 158.00, Scaled: 197.95, Desired address: 4608
+2025-05-12 17:52:26,427 - Current focus address: 4608
+2025-05-12 17:52:26,478 - Step 36/164
+2025-05-12 17:52:26,479 - Zoom - Original: 115.00, Scaled: 55.75, Desired address: 7074
+2025-05-12 17:52:26,908 - Current zoom address: 7074
+2025-05-12 17:52:26,959 - Focus - Original: 157.00, Scaled: 195.88, Desired address: 4588
+2025-05-12 17:52:27,493 - Current focus address: 4588
+2025-05-12 17:52:27,544 - Step 37/164
+2025-05-12 17:52:27,544 - Zoom - Original: 116.00, Scaled: 57.32, Desired address: 7158
+2025-05-12 17:52:27,972 - Current zoom address: 7158
+2025-05-12 17:52:28,023 - Focus - Original: 156.00, Scaled: 193.80, Desired address: 4568
+2025-05-12 17:52:28,557 - Current focus address: 4568
+2025-05-12 17:52:28,608 - Step 38/164
+2025-05-12 17:52:28,608 - Zoom - Original: 117.00, Scaled: 58.88, Desired address: 7243
+2025-05-12 17:52:29,036 - Current zoom address: 7243
+2025-05-12 17:52:29,087 - Focus - Original: 155.00, Scaled: 191.73, Desired address: 4549
+2025-05-12 17:52:29,621 - Current focus address: 4549
+2025-05-12 17:52:29,673 - Step 39/164
+2025-05-12 17:52:29,673 - Zoom - Original: 118.00, Scaled: 60.45, Desired address: 7328
+2025-05-12 17:52:30,104 - Current zoom address: 7328
+2025-05-12 17:52:30,154 - Focus - Original: 154.00, Scaled: 189.66, Desired address: 4529
+2025-05-12 17:52:30,689 - Current focus address: 4529
+2025-05-12 17:52:30,740 - Step 40/164
+2025-05-12 17:52:30,741 - Zoom - Original: 119.00, Scaled: 62.01, Desired address: 7412
+2025-05-12 17:52:31,170 - Current zoom address: 7412
+2025-05-12 17:52:31,222 - Focus - Original: 153.00, Scaled: 187.59, Desired address: 4509
+2025-05-12 17:52:31,757 - Current focus address: 4509
+2025-05-12 17:52:31,808 - Step 41/164
+2025-05-12 17:52:31,808 - Zoom - Original: 120.00, Scaled: 63.58, Desired address: 7497
+2025-05-12 17:52:32,237 - Current zoom address: 7497
+2025-05-12 17:52:32,288 - Focus - Original: 152.00, Scaled: 185.51, Desired address: 4490
+2025-05-12 17:52:32,821 - Current focus address: 4490
+2025-05-12 17:52:32,909 - Step 42/164
+2025-05-12 17:52:32,925 - Zoom - Original: 121.00, Scaled: 65.14, Desired address: 7582
+2025-05-12 17:52:33,355 - Current zoom address: 7582
+2025-05-12 17:52:33,406 - Focus - Original: 151.00, Scaled: 183.44, Desired address: 4470
+2025-05-12 17:52:33,940 - Current focus address: 4470
+2025-05-12 17:52:33,991 - Step 43/164
+2025-05-12 17:52:33,992 - Zoom - Original: 122.00, Scaled: 66.71, Desired address: 7666
+2025-05-12 17:52:34,421 - Current zoom address: 7666
+2025-05-12 17:52:34,472 - Focus - Original: 150.00, Scaled: 181.37, Desired address: 4450
+2025-05-12 17:52:35,007 - Current focus address: 4450
+2025-05-12 17:52:35,058 - Step 44/164
+2025-05-12 17:52:35,058 - Zoom - Original: 123.00, Scaled: 68.27, Desired address: 7751
+2025-05-12 17:52:35,489 - Current zoom address: 7751
+2025-05-12 17:52:35,540 - Focus - Original: 149.00, Scaled: 179.29, Desired address: 4431
+2025-05-12 17:52:36,074 - Current focus address: 4431
+2025-05-12 17:52:36,125 - Step 45/164
+2025-05-12 17:52:36,125 - Zoom - Original: 124.00, Scaled: 69.83, Desired address: 7836
+2025-05-12 17:52:36,555 - Current zoom address: 7836
+2025-05-12 17:52:36,606 - Focus - Original: 149.00, Scaled: 179.29, Desired address: 4431
+2025-05-12 18:10:33,501 - Connecting to device 0
+2025-05-12 18:10:34,694 - Device connected successfully
+2025-05-12 18:10:34,694 - Initializing Zoom
+2025-05-12 18:10:41,124 - Initializing Focus
+2025-05-12 18:10:52,518 - Set zoom speed (default or max)
+2025-05-12 18:10:54,308 - Set focus speed (default or max)
+2025-05-12 18:10:54,308 - Generated 164 zoom and focus value pairs
+2025-05-12 18:10:54,308 - Loaded 164 zoom and focus value pairs from generator
+2025-05-12 18:10:54,311 - Step 1/164
+2025-05-12 18:10:54,311 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:11:00,731 - Current zoom address: 4111
+2025-05-12 18:11:00,782 - Focus - Original: 186.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 18:11:01,737 - Current focus address: 5159
+2025-05-12 18:11:01,795 - Step 2/164
+2025-05-12 18:11:01,797 - Zoom - Original: 81.00, Scaled: 2.56, Desired address: 4195
+2025-05-12 18:11:02,226 - Current zoom address: 4195
+2025-05-12 18:11:02,277 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 18:11:02,812 - Current focus address: 5139
+2025-05-12 18:11:02,863 - Step 3/164
+2025-05-12 18:11:02,863 - Zoom - Original: 82.00, Scaled: 4.13, Desired address: 4280
+2025-05-12 18:11:03,292 - Current zoom address: 4280
+2025-05-12 18:11:03,343 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 18:11:05,540 - Current focus address: 5139
+2025-05-12 18:11:05,591 - Step 4/164
+2025-05-12 18:11:05,592 - Zoom - Original: 83.00, Scaled: 5.69, Desired address: 4364
+2025-05-12 18:11:06,020 - Current zoom address: 4364
+2025-05-12 18:11:06,072 - Focus - Original: 184.00, Scaled: 251.85, Desired address: 5119
+2025-05-12 18:11:06,606 - Current focus address: 5119
+2025-05-12 18:11:06,657 - Step 5/164
+2025-05-12 18:11:06,657 - Zoom - Original: 84.00, Scaled: 7.26, Desired address: 4449
+2025-05-12 18:11:07,085 - Current zoom address: 4449
+2025-05-12 18:11:07,136 - Focus - Original: 183.00, Scaled: 249.78, Desired address: 5099
+2025-05-12 18:11:07,669 - Current focus address: 5099
+2025-05-12 18:11:07,720 - Step 6/164
+2025-05-12 18:11:07,720 - Zoom - Original: 85.00, Scaled: 8.82, Desired address: 4534
+2025-05-12 18:11:08,154 - Current zoom address: 4534
+2025-05-12 18:11:08,205 - Focus - Original: 182.00, Scaled: 247.71, Desired address: 5080
+2025-05-12 18:11:08,745 - Current focus address: 5080
+2025-05-12 18:11:08,796 - Step 7/164
+2025-05-12 18:11:08,797 - Zoom - Original: 86.00, Scaled: 10.39, Desired address: 4618
+2025-05-12 18:11:09,227 - Current zoom address: 4618
+2025-05-12 18:11:09,278 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 18:11:09,814 - Current focus address: 5060
+2025-05-12 18:11:09,865 - Step 8/164
+2025-05-12 18:11:09,866 - Zoom - Original: 87.00, Scaled: 11.95, Desired address: 4703
+2025-05-12 18:11:10,296 - Current zoom address: 4703
+2025-05-12 18:11:10,349 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 18:11:12,562 - Current focus address: 5060
+2025-05-12 18:11:12,614 - Step 9/164
+2025-05-12 18:11:12,615 - Zoom - Original: 88.00, Scaled: 13.52, Desired address: 4788
+2025-05-12 18:11:13,046 - Current zoom address: 4788
+2025-05-12 18:11:13,098 - Focus - Original: 180.00, Scaled: 243.56, Desired address: 5040
+2025-05-12 18:11:13,635 - Current focus address: 5040
+2025-05-12 18:11:13,687 - Step 10/164
+2025-05-12 18:11:13,688 - Zoom - Original: 89.00, Scaled: 15.08, Desired address: 4872
+2025-05-12 18:11:14,120 - Current zoom address: 4872
+2025-05-12 18:11:14,171 - Focus - Original: 179.00, Scaled: 241.49, Desired address: 5021
+2025-05-12 18:11:14,706 - Current focus address: 5021
+2025-05-12 18:11:14,758 - Step 11/164
+2025-05-12 18:11:14,758 - Zoom - Original: 90.00, Scaled: 16.64, Desired address: 4957
+2025-05-12 18:11:15,194 - Current zoom address: 4957
+2025-05-12 18:11:15,245 - Focus - Original: 178.00, Scaled: 239.41, Desired address: 5001
+2025-05-12 18:11:15,784 - Current focus address: 5001
+2025-05-12 18:11:15,836 - Step 12/164
+2025-05-12 18:11:15,837 - Zoom - Original: 91.00, Scaled: 18.21, Desired address: 5042
+2025-05-12 18:11:16,270 - Current zoom address: 5042
+2025-05-12 18:11:16,322 - Focus - Original: 177.00, Scaled: 237.34, Desired address: 4981
+2025-05-12 18:11:16,858 - Current focus address: 4981
+2025-05-12 18:11:16,909 - Step 13/164
+2025-05-12 18:11:16,909 - Zoom - Original: 92.00, Scaled: 19.77, Desired address: 5126
+2025-05-12 18:11:17,342 - Current zoom address: 5126
+2025-05-12 18:11:17,393 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 18:11:17,936 - Current focus address: 4962
+2025-05-12 18:11:17,987 - Step 14/164
+2025-05-12 18:11:17,988 - Zoom - Original: 93.00, Scaled: 21.34, Desired address: 5211
+2025-05-12 18:11:18,417 - Current zoom address: 5211
+2025-05-12 18:11:18,469 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 18:11:20,675 - Current focus address: 4962
+2025-05-12 18:11:20,727 - Step 15/164
+2025-05-12 18:11:20,728 - Zoom - Original: 94.00, Scaled: 22.90, Desired address: 5296
+2025-05-12 18:11:21,159 - Current zoom address: 5296
+2025-05-12 18:11:21,209 - Focus - Original: 175.00, Scaled: 233.20, Desired address: 4942
+2025-05-12 18:11:21,750 - Current focus address: 4942
+2025-05-12 18:11:21,802 - Step 16/164
+2025-05-12 18:11:21,803 - Zoom - Original: 95.00, Scaled: 24.47, Desired address: 5380
+2025-05-12 18:11:22,236 - Current zoom address: 5380
+2025-05-12 18:11:22,287 - Focus - Original: 174.00, Scaled: 231.12, Desired address: 4922
+2025-05-12 18:11:22,824 - Current focus address: 4922
+2025-05-12 18:11:22,875 - Step 17/164
+2025-05-12 18:11:22,876 - Zoom - Original: 96.00, Scaled: 26.03, Desired address: 5465
+2025-05-12 18:11:23,311 - Current zoom address: 5465
+2025-05-12 18:11:23,361 - Focus - Original: 173.00, Scaled: 229.05, Desired address: 4903
+2025-05-12 18:11:23,898 - Current focus address: 4903
+2025-05-12 18:11:23,949 - Step 18/164
+2025-05-12 18:11:23,949 - Zoom - Original: 97.00, Scaled: 27.60, Desired address: 5550
+2025-05-12 18:11:24,379 - Current zoom address: 5550
+2025-05-12 18:11:24,430 - Focus - Original: 172.00, Scaled: 226.98, Desired address: 4883
+2025-05-12 18:11:24,969 - Current focus address: 4883
+2025-05-12 18:11:25,020 - Step 19/164
+2025-05-12 18:11:25,021 - Zoom - Original: 98.00, Scaled: 29.16, Desired address: 5634
+2025-05-12 18:11:25,451 - Current zoom address: 5634
+2025-05-12 18:11:25,502 - Focus - Original: 172.00, Scaled: 226.98, Desired address: 4883
+2025-05-12 18:11:27,708 - Current focus address: 4883
+2025-05-12 18:11:27,759 - Step 20/164
+2025-05-12 18:11:27,759 - Zoom - Original: 99.00, Scaled: 30.72, Desired address: 5719
+2025-05-12 18:11:28,189 - Current zoom address: 5719
+2025-05-12 18:11:28,240 - Focus - Original: 171.00, Scaled: 224.90, Desired address: 4863
+2025-05-12 18:11:28,777 - Current focus address: 4863
+2025-05-12 18:11:28,828 - Step 21/164
+2025-05-12 18:11:28,828 - Zoom - Original: 100.00, Scaled: 32.29, Desired address: 5804
+2025-05-12 18:11:29,258 - Current zoom address: 5804
+2025-05-12 18:11:29,309 - Focus - Original: 170.00, Scaled: 222.83, Desired address: 4844
+2025-05-12 18:11:29,848 - Current focus address: 4844
+2025-05-12 18:11:29,900 - Step 22/164
+2025-05-12 18:11:29,900 - Zoom - Original: 101.00, Scaled: 33.85, Desired address: 5888
+2025-05-12 18:11:30,334 - Current zoom address: 5888
+2025-05-12 18:11:30,385 - Focus - Original: 169.00, Scaled: 220.76, Desired address: 4824
+2025-05-12 18:11:30,921 - Current focus address: 4824
+2025-05-12 18:11:30,972 - Step 23/164
+2025-05-12 18:11:30,973 - Zoom - Original: 102.00, Scaled: 35.42, Desired address: 5973
+2025-05-12 18:11:31,403 - Current zoom address: 5973
+2025-05-12 18:11:31,455 - Focus - Original: 168.00, Scaled: 218.68, Desired address: 4804
+2025-05-12 18:11:31,991 - Current focus address: 4804
+2025-05-12 18:11:32,042 - Step 24/164
+2025-05-12 18:11:32,043 - Zoom - Original: 103.00, Scaled: 36.98, Desired address: 6058
+2025-05-12 18:11:32,474 - Current zoom address: 6058
+2025-05-12 18:11:32,524 - Focus - Original: 167.00, Scaled: 216.61, Desired address: 4785
+2025-05-12 18:11:33,062 - Current focus address: 4785
+2025-05-12 18:11:33,113 - Step 25/164
+2025-05-12 18:11:33,114 - Zoom - Original: 104.00, Scaled: 38.55, Desired address: 6142
+2025-05-12 18:11:33,558 - Current zoom address: 6142
+2025-05-12 18:11:33,609 - Focus - Original: 166.00, Scaled: 214.54, Desired address: 4765
+2025-05-12 18:11:34,153 - Current focus address: 4765
+2025-05-12 18:11:34,204 - Step 26/164
+2025-05-12 18:11:34,206 - Zoom - Original: 105.00, Scaled: 40.11, Desired address: 6227
+2025-05-12 18:11:34,638 - Current zoom address: 6227
+2025-05-12 18:11:34,691 - Focus - Original: 166.00, Scaled: 214.54, Desired address: 4765
+2025-05-12 18:11:36,915 - Current focus address: 4765
+2025-05-12 18:11:36,967 - Step 27/164
+2025-05-12 18:11:36,967 - Zoom - Original: 106.00, Scaled: 41.67, Desired address: 6312
+2025-05-12 18:11:37,406 - Current zoom address: 6312
+2025-05-12 18:11:37,457 - Focus - Original: 165.00, Scaled: 212.46, Desired address: 4745
+2025-05-12 18:11:38,002 - Current focus address: 4745
+2025-05-12 18:11:38,053 - Step 28/164
+2025-05-12 18:11:38,053 - Zoom - Original: 107.00, Scaled: 43.24, Desired address: 6396
+2025-05-12 18:11:38,485 - Current zoom address: 6396
+2025-05-12 18:11:38,537 - Focus - Original: 164.00, Scaled: 210.39, Desired address: 4726
+2025-05-12 18:11:39,074 - Current focus address: 4726
+2025-05-12 18:11:39,124 - Step 29/164
+2025-05-12 18:11:39,126 - Zoom - Original: 108.00, Scaled: 44.80, Desired address: 6481
+2025-05-12 18:11:39,556 - Current zoom address: 6481
+2025-05-12 18:11:39,608 - Focus - Original: 163.00, Scaled: 208.32, Desired address: 4706
+2025-05-12 18:11:40,146 - Current focus address: 4706
+2025-05-12 18:11:40,197 - Step 30/164
+2025-05-12 18:11:40,198 - Zoom - Original: 109.00, Scaled: 46.37, Desired address: 6566
+2025-05-12 18:11:40,628 - Current zoom address: 6566
+2025-05-12 18:11:40,680 - Focus - Original: 162.00, Scaled: 206.24, Desired address: 4686
+2025-05-12 18:11:41,214 - Current focus address: 4686
+2025-05-12 18:11:41,265 - Step 31/164
+2025-05-12 18:11:41,266 - Zoom - Original: 110.00, Scaled: 47.93, Desired address: 6650
+2025-05-12 18:11:41,695 - Current zoom address: 6650
+2025-05-12 18:11:41,746 - Focus - Original: 161.00, Scaled: 204.17, Desired address: 4667
+2025-05-12 18:11:42,283 - Current focus address: 4667
+2025-05-12 18:11:42,334 - Step 32/164
+2025-05-12 18:11:42,335 - Zoom - Original: 111.00, Scaled: 49.50, Desired address: 6735
+2025-05-12 18:11:42,767 - Current zoom address: 6735
+2025-05-12 18:11:42,818 - Focus - Original: 160.00, Scaled: 202.10, Desired address: 4647
+2025-05-12 18:11:43,353 - Current focus address: 4647
+2025-05-12 18:11:43,404 - Step 33/164
+2025-05-12 18:11:43,406 - Zoom - Original: 112.00, Scaled: 51.06, Desired address: 6820
+2025-05-12 18:11:43,837 - Current zoom address: 6820
+2025-05-12 18:11:43,888 - Focus - Original: 159.00, Scaled: 200.02, Desired address: 4627
+2025-05-12 18:11:44,429 - Current focus address: 4627
+2025-05-12 18:11:44,480 - Step 34/164
+2025-05-12 18:11:44,481 - Zoom - Original: 113.00, Scaled: 52.63, Desired address: 6904
+2025-05-12 18:11:44,913 - Current zoom address: 6904
+2025-05-12 18:11:44,964 - Focus - Original: 159.00, Scaled: 200.02, Desired address: 4627
+2025-05-12 18:11:47,175 - Current focus address: 4627
+2025-05-12 18:11:47,227 - Step 35/164
+2025-05-12 18:11:47,228 - Zoom - Original: 114.00, Scaled: 54.19, Desired address: 6989
+2025-05-12 18:11:47,659 - Current zoom address: 6989
+2025-05-12 18:11:47,711 - Focus - Original: 158.00, Scaled: 197.95, Desired address: 4608
+2025-05-12 18:11:48,251 - Current focus address: 4608
+2025-05-12 18:11:48,302 - Step 36/164
+2025-05-12 18:11:48,303 - Zoom - Original: 115.00, Scaled: 55.75, Desired address: 7074
+2025-05-12 18:11:48,760 - Current zoom address: 7074
+2025-05-12 18:11:48,812 - Focus - Original: 157.00, Scaled: 195.88, Desired address: 4588
+2025-05-12 18:11:49,347 - Current focus address: 4588
+2025-05-12 18:11:49,398 - Step 37/164
+2025-05-12 18:11:49,398 - Zoom - Original: 116.00, Scaled: 57.32, Desired address: 7158
+2025-05-12 18:11:49,830 - Current zoom address: 7158
+2025-05-12 18:11:49,880 - Focus - Original: 156.00, Scaled: 193.80, Desired address: 4568
+2025-05-12 18:11:50,421 - Current focus address: 4568
+2025-05-12 18:11:50,473 - Step 38/164
+2025-05-12 18:11:50,473 - Zoom - Original: 117.00, Scaled: 58.88, Desired address: 7243
+2025-05-12 18:11:50,906 - Current zoom address: 7243
+2025-05-12 18:11:50,958 - Focus - Original: 155.00, Scaled: 191.73, Desired address: 4549
+2025-05-12 18:11:51,501 - Current focus address: 4549
+2025-05-12 18:11:51,552 - Step 39/164
+2025-05-12 18:11:51,552 - Zoom - Original: 118.00, Scaled: 60.45, Desired address: 7328
+2025-05-12 18:11:51,983 - Current zoom address: 7328
+2025-05-12 18:11:52,034 - Focus - Original: 154.00, Scaled: 189.66, Desired address: 4529
+2025-05-12 18:11:52,569 - Current focus address: 4529
+2025-05-12 18:11:52,620 - Step 40/164
+2025-05-12 18:11:52,621 - Zoom - Original: 119.00, Scaled: 62.01, Desired address: 7412
+2025-05-12 18:11:53,050 - Current zoom address: 7412
+2025-05-12 18:11:53,102 - Focus - Original: 153.00, Scaled: 187.59, Desired address: 4509
+2025-05-12 18:11:53,638 - Current focus address: 4509
+2025-05-12 18:11:53,690 - Step 41/164
+2025-05-12 18:11:53,691 - Zoom - Original: 120.00, Scaled: 63.58, Desired address: 7497
+2025-05-12 18:11:54,119 - Current zoom address: 7497
+2025-05-12 18:11:54,171 - Focus - Original: 152.00, Scaled: 185.51, Desired address: 4490
+2025-05-12 18:11:54,714 - Current focus address: 4490
+2025-05-12 18:11:54,765 - Step 42/164
+2025-05-12 18:11:54,765 - Zoom - Original: 121.00, Scaled: 65.14, Desired address: 7582
+2025-05-12 18:11:55,197 - Current zoom address: 7582
+2025-05-12 18:11:55,248 - Focus - Original: 151.00, Scaled: 183.44, Desired address: 4470
+2025-05-12 18:11:55,784 - Current focus address: 4470
+2025-05-12 18:11:55,835 - Step 43/164
+2025-05-12 18:11:55,836 - Zoom - Original: 122.00, Scaled: 66.71, Desired address: 7666
+2025-05-12 18:15:31,936 - Connecting to device 0
+2025-05-12 18:15:33,306 - Device connected successfully
+2025-05-12 18:15:43,159 - Set zoom speed (default or max)
+2025-05-12 18:15:45,414 - Set focus speed (default or max)
+2025-05-12 18:15:45,415 - Generated 164 zoom and focus value pairs
+2025-05-12 18:15:45,416 - Loaded 164 zoom and focus value pairs from generator
+2025-05-12 18:15:45,420 - Step 1/164
+2025-05-12 18:15:45,420 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:15:47,752 - Current zoom address: 4111
+2025-05-12 18:15:47,803 - Focus - Original: 186.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 18:15:48,556 - Current focus address: 5159
+2025-05-12 18:15:48,608 - Step 2/164
+2025-05-12 18:15:48,609 - Zoom - Original: 81.00, Scaled: 2.56, Desired address: 4195
+2025-05-12 18:15:49,038 - Current zoom address: 4195
+2025-05-12 18:15:49,089 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 18:15:49,638 - Current focus address: 5139
+2025-05-12 18:15:49,689 - Step 3/164
+2025-05-12 18:15:49,690 - Zoom - Original: 82.00, Scaled: 4.13, Desired address: 4280
+2025-05-12 18:15:50,122 - Current zoom address: 4280
+2025-05-12 18:15:50,173 - Focus - Original: 185.00, Scaled: 253.93, Desired address: 5139
+2025-05-12 18:15:52,387 - Current focus address: 5139
+2025-05-12 18:15:52,438 - Step 4/164
+2025-05-12 18:15:52,440 - Zoom - Original: 83.00, Scaled: 5.69, Desired address: 4364
+2025-05-12 18:15:52,870 - Current zoom address: 4364
+2025-05-12 18:15:52,923 - Focus - Original: 184.00, Scaled: 251.85, Desired address: 5119
+2025-05-12 18:15:53,465 - Current focus address: 5119
+2025-05-12 18:15:53,516 - Step 5/164
+2025-05-12 18:15:53,516 - Zoom - Original: 84.00, Scaled: 7.26, Desired address: 4449
+2025-05-12 18:15:53,946 - Current zoom address: 4449
+2025-05-12 18:15:53,997 - Focus - Original: 183.00, Scaled: 249.78, Desired address: 5099
+2025-05-12 18:15:54,532 - Current focus address: 5099
+2025-05-12 18:15:54,583 - Step 6/164
+2025-05-12 18:15:54,584 - Zoom - Original: 85.00, Scaled: 8.82, Desired address: 4534
+2025-05-12 18:15:55,015 - Current zoom address: 4534
+2025-05-12 18:15:55,066 - Focus - Original: 182.00, Scaled: 247.71, Desired address: 5080
+2025-05-12 18:15:55,600 - Current focus address: 5080
+2025-05-12 18:15:55,651 - Step 7/164
+2025-05-12 18:15:55,651 - Zoom - Original: 86.00, Scaled: 10.39, Desired address: 4618
+2025-05-12 18:15:56,084 - Current zoom address: 4618
+2025-05-12 18:15:56,135 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 18:15:56,680 - Current focus address: 5060
+2025-05-12 18:15:56,731 - Step 8/164
+2025-05-12 18:15:56,732 - Zoom - Original: 87.00, Scaled: 11.95, Desired address: 4703
+2025-05-12 18:15:57,161 - Current zoom address: 4703
+2025-05-12 18:15:57,213 - Focus - Original: 181.00, Scaled: 245.63, Desired address: 5060
+2025-05-12 18:15:59,419 - Current focus address: 5060
+2025-05-12 18:15:59,470 - Step 9/164
+2025-05-12 18:15:59,470 - Zoom - Original: 88.00, Scaled: 13.52, Desired address: 4788
+2025-05-12 18:15:59,899 - Current zoom address: 4788
+2025-05-12 18:15:59,951 - Focus - Original: 180.00, Scaled: 243.56, Desired address: 5040
+2025-05-12 18:16:00,485 - Current focus address: 5040
+2025-05-12 18:16:00,536 - Step 10/164
+2025-05-12 18:16:00,536 - Zoom - Original: 89.00, Scaled: 15.08, Desired address: 4872
+2025-05-12 18:16:00,964 - Current zoom address: 4872
+2025-05-12 18:16:01,015 - Focus - Original: 179.00, Scaled: 241.49, Desired address: 5021
+2025-05-12 18:16:01,608 - Current focus address: 5021
+2025-05-12 18:16:01,662 - Step 11/164
+2025-05-12 18:16:01,664 - Zoom - Original: 90.00, Scaled: 16.64, Desired address: 4957
+2025-05-12 18:16:02,100 - Current zoom address: 4957
+2025-05-12 18:16:02,151 - Focus - Original: 178.00, Scaled: 239.41, Desired address: 5001
+2025-05-12 18:16:02,687 - Current focus address: 5001
+2025-05-12 18:16:02,739 - Step 12/164
+2025-05-12 18:16:02,740 - Zoom - Original: 91.00, Scaled: 18.21, Desired address: 5042
+2025-05-12 18:16:03,171 - Current zoom address: 5042
+2025-05-12 18:16:03,223 - Focus - Original: 177.00, Scaled: 237.34, Desired address: 4981
+2025-05-12 18:16:03,758 - Current focus address: 4981
+2025-05-12 18:16:03,809 - Step 13/164
+2025-05-12 18:16:03,809 - Zoom - Original: 92.00, Scaled: 19.77, Desired address: 5126
+2025-05-12 18:16:04,238 - Current zoom address: 5126
+2025-05-12 18:16:04,290 - Focus - Original: 176.00, Scaled: 235.27, Desired address: 4962
+2025-05-12 18:40:36,801 - Connecting to device 0
+2025-05-12 18:40:38,081 - Device connected successfully
+2025-05-12 18:40:38,082 - Initializing Focus
+2025-05-12 18:40:44,182 - Set zoom speed (default or max)
+2025-05-12 18:40:46,178 - Set focus speed (default or max)
+2025-05-12 18:41:00,480 - Zoom increased to 81
+2025-05-12 18:41:00,481 - Zoom - Original: 81.00, Scaled: 2.56, Desired address: 4195
+2025-05-12 18:41:06,930 - Current zoom address: 4195
+2025-05-12 18:41:06,981 - Focus - Original: 244.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 18:41:08,032 - Current focus address: 5159
+2025-05-12 18:41:20,280 - Zoom decreased to 80
+2025-05-12 18:41:20,281 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:41:20,920 - Current zoom address: 4111
+2025-05-12 18:41:20,971 - Focus - Original: 244.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 18:41:23,270 - Current focus address: 5159
+2025-05-12 18:41:24,762 - Zoom decreased to 80
+2025-05-12 18:41:24,763 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:41:27,066 - Current zoom address: 4111
+2025-05-12 18:41:27,118 - Focus - Original: 244.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 18:41:29,411 - Current focus address: 5159
+2025-05-12 18:41:29,613 - Focus increased to 244
+2025-05-12 18:41:29,614 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:41:31,920 - Current zoom address: 4111
+2025-05-12 18:41:31,971 - Focus - Original: 244.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 18:41:34,276 - Current focus address: 5159
+2025-05-12 18:41:34,578 - Focus increased to 244
+2025-05-12 18:41:34,578 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:41:36,874 - Current zoom address: 4111
+2025-05-12 18:41:36,927 - Focus - Original: 244.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 18:41:39,222 - Current focus address: 5159
+2025-05-12 18:41:44,239 - Focus increased to 244
+2025-05-12 18:41:44,239 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:41:46,525 - Current zoom address: 4111
+2025-05-12 18:41:46,576 - Focus - Original: 244.00, Scaled: 256.00, Desired address: 5159
+2025-05-12 18:41:48,862 - Current focus address: 5159
+2025-05-12 18:41:49,451 - Focus decreased to 243
+2025-05-12 18:41:49,452 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:41:51,737 - Current zoom address: 4111
+2025-05-12 18:41:51,788 - Focus - Original: 243.00, Scaled: 253.48, Desired address: 5135
+2025-05-12 18:41:52,411 - Current focus address: 5135
+2025-05-12 18:41:52,612 - Focus decreased to 242
+2025-05-12 18:41:52,613 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:41:54,899 - Current zoom address: 4111
+2025-05-12 18:41:54,950 - Focus - Original: 242.00, Scaled: 250.95, Desired address: 5111
+2025-05-12 18:41:55,573 - Current focus address: 5111
+2025-05-12 18:41:55,775 - Focus decreased to 241
+2025-05-12 18:41:55,775 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:41:58,062 - Current zoom address: 4111
+2025-05-12 18:41:58,113 - Focus - Original: 241.00, Scaled: 248.43, Desired address: 5087
+2025-05-12 18:41:58,737 - Current focus address: 5087
+2025-05-12 18:41:58,938 - Focus decreased to 240
+2025-05-12 18:41:58,939 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:42:01,229 - Current zoom address: 4111
+2025-05-12 18:42:01,280 - Focus - Original: 240.00, Scaled: 245.90, Desired address: 5063
+2025-05-12 18:42:01,903 - Current focus address: 5063
+2025-05-12 18:42:03,134 - Focus decreased to 239
+2025-05-12 18:42:03,135 - Zoom - Original: 80.00, Scaled: 1.00, Desired address: 4111
+2025-05-12 18:42:05,420 - Current zoom address: 4111
+2025-05-12 18:42:05,471 - Focus - Original: 239.00, Scaled: 243.38, Desired address: 5039
+2025-05-12 18:42:06,096 - Current focus address: 5039
