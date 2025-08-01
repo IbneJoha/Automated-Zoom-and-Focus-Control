@@ -9,9 +9,15 @@ In high-mobility environments such as military drone-based Optical Camera Commun
 
 Zoom and focus adjustments are traditionally performed manually through software interfaces, which require constant operator involvement. While precise, this method lacks scalability and real-time responsiveness.
 
-Model Predictive Control (MPC) methods offer limited automation but fall short in dynamic adaptability and low-latency performance. They require manual tuning and exhibit slow convergence in high-speed scenarios.
+Existing methods offer limited automation but fall short in dynamic adaptability and low-latency performance. They require manual tuning and exhibit slow convergence in high-mobility scenarios.
 
 To overcome these limitations, we present a novel **AI-based automated zoom and focus control system**, combining real-time object detection, feedback-based control, and mathematical modeling through **curve fitting**. The system achieves dynamic, low-latency optical control and is optimized for autonomous OCC applications.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25369079-a415-4892-9fc4-aa86b5878c33" alt="Manual Control Platform" width="600"/>
+  <br>
+  <em>Figure: Interface of the manual control platform for zoom and focus adjustment.</em>
+</p>
 
 ---
 
@@ -30,6 +36,13 @@ To overcome these limitations, we present a novel **AI-based automated zoom and 
 - **Motor control** using time-stepped DC motor signals
 - **Focus prediction model** using polynomial curve fitting
 - **Adaptive correction loop** with moving average filtering and timeout safety
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc56f7d3-1573-4046-b825-ea7da2d12d1c" alt="Zoom In/Out Command Interface" width="600"/>
+  <br>
+  <em>Figure: Proposed Zoom in and zoom out operations for automated control.</em>
+</p>
+
 
 ---
 
