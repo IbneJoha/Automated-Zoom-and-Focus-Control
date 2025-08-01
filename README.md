@@ -110,7 +110,7 @@ An R² value close to 1.0 indicates excellent model fit.
 
 Our proposed approach achieves fully automated, low-latency adjustments with response times of less than 100 ms, enabling real-time adaptability crucial for high-mobility drone OCC applications. The system integrates object detection using a YOLO model to extract Region of Interest (ROI) values in real-time, which are then used to guide zoom and focus correction. Testing with a real-world system across distances of 15–20 m and drone speeds of up to 10 km/h showed that the polynomial curve fitting model predicts focus values accurately, maintaining stability and system integrity even under moderate motion.
 
-The evaluation of curve fitting accuracy yielded an excellent coefficient of determination \(R^2 \approx 0.9999\) using a 5th-degree polynomial, indicating a highly reliable predictive model. The use of ROI as a dynamic feedback parameter allowed for adaptive focus tuning aligned with object position and scale, while moving average filtering helped suppress noise in sensor data. Overall, the system supports smooth optical adjustments during drone movement and improves OCC link stability in dynamic field environments.
+The evaluation of curve fitting accuracy yielded an excellent coefficient of determination \(R² approx 0.9999\) using a 5th-degree polynomial, indicating a highly reliable predictive model. The use of ROI as a dynamic feedback parameter allowed for adaptive focus tuning aligned with object position and scale, while moving average filtering helped suppress noise in sensor data. Overall, the system supports smooth optical adjustments during drone movement and improves OCC link stability in dynamic field environments.
 
 
 
