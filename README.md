@@ -19,7 +19,7 @@ To overcome these limitations, we present a novel **AI-based automated zoom and 
 
 ### 2.1 System Overview
 
-![System Implementation Diagram](.Automated-Zoom-and-Focus-Control/Supporting%20Files/Implementation.png)
+<img width="944" height="690" alt="Implementation" src="https://github.com/user-attachments/assets/e26b0afa-b9df-4537-9747-c1bde31f3ea4" />
 
 - **Real-time feedback loop** using ROI (Region of interest)
 - **Motor control** using time-stepped DC motor signals
