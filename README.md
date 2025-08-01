@@ -11,7 +11,7 @@ Zoom and focus adjustments are traditionally performed manually through software
 
 Existing methods offer limited automation but fall short in dynamic adaptability and low-latency performance. They require manual tuning and exhibit slow convergence in high-mobility scenarios.
 
-To overcome these limitations, we present a novel **AI-based automated zoom and focus control system**, combining real-time object detection, feedback-based control, and mathematical modeling through **curve fitting**. The system achieves dynamic, low-latency optical control and is optimized for autonomous OCC applications.
+To overcome these limitations, we present a novel **AI-based automated zoom and focus control system**, combining real-time object detection, feedback-based control, and mathematical modeling through **curve fitting**. The system achieves dynamic, low-latency optical control and is optimized for autonomous drone OCC applications.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25369079-a415-4892-9fc4-aa86b5878c33" alt="Manual Control Platform" width="600"/>
