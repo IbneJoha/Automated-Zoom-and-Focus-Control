@@ -164,13 +164,13 @@ Where:
 
 The zoom adjustment logic is:
 
-* **Zoom In**: If `A_rel < A_min` ( `A_min`=0.50, indicating the LED array occupies less than 50% of the frame area), increase the zoom level:
+* **Zoom In**: If `A_rel < A_min` ( `A_min=0.50`, indicating the LED array occupies less than 50% of the frame area), increase the zoom level:
 
   ```
   Z_new = Z_current + ∆Z
   ```
 
-* **Zoom Out**: If `A_rel > A_max` (`A_max`=80, indicating the LED array exceeds 80% of the frame area), decrease the zoom level:
+* **Zoom Out**: If `A_rel > A_max` (`A_max=0.80`, indicating the LED array exceeds 80% of the frame area), decrease the zoom level:
 
   ```
   Z_new = Z_current - ∆Z
