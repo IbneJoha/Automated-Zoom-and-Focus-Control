@@ -78,6 +78,21 @@ Where:
 - `A` is the Vandermonde matrix of zoom inputs
 - `F` is the vector of observed focus values
 
+#### Least Squares Cost Function:
+
+To fit the polynomial curve, we minimize the following cost function:
+
+$$
+J(\mathbf{a}) = \sum_{i=1}^{n} \left(F_i - \left(a_0 + a_1 Z_i + a_2 Z_i^2 + a_3 Z_i^3 + a_4 Z_i^4 + a_5 Z_i^5\right)\right)^2
+$$
+
+Where:
+- `Fᵢ`: observed focus value  
+- `Zᵢ`: zoom input  
+- `a₀` to `a₅`: polynomial coefficients
+
+This function measures how well the polynomial fits the observed focus data.
+
 #### Model Evaluation – Coefficient of Determination (R²)
 
 To evaluate how well the curve fitting model predicts focus values, we use the coefficient of determination (R²):
