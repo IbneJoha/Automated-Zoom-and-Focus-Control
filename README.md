@@ -116,7 +116,96 @@ An R² value close to 1.0 indicates excellent model fit.
 4. **Compare** current zoom/focus vs. target values derived from ROI and distance measurements  
 5. **Predict focus** using a polynomial equation based on zoom and ROI information  
 6. **Adjust motors** in a stepwise manner according to the control logic  
-7. **Timeout** after 5 seconds if no convergence is achieved  
+7. **Timeout** after 5 seconds if no convergence is achieved
+8. 
+
+### 2.5 ROI Bounding Box Centering for Zoom and Focus Control
+
+The Region of Interest (ROI) bounding box, obtained from the YOLO object detection model, is used to center the LED array in the camera frame and dynamically adjust zoom and focus based on the bounding box area. The bounding box is defined by its center coordinates `(x_c, y_c)`, width `x`, and height `y`. The system zooms in when the LED array’s bounding box area is too small and zooms out when it exceeds a threshold, with focus adjustments synchronized to zoom changes using the polynomial model.
+
+---
+
+#### ROI Centering
+
+To keep the LED array centered in the camera frame, the system computes the centering error between the ROI bounding box center `(x_c, y_c)` and the frame center `(x_frame, y_frame)`:
+
+```
+∆x = x_c - x_frame  
+∆y = y_c - y_frame
+```
+
+These error terms guide ROI cropping to align the LED array with the frame center, ensuring optimal framing for Optical Camera Communication (OCC).
+
+---
+
+#### Zoom Adjustment Based on Bounding Box Area
+
+The zoom level is adjusted based on the area of the LED array’s bounding box:
+
+```
+A_ROI = x * y
+```
+
+Where:
+
+* `x`: Width of the ROI bounding box (in pixels)
+* `y`: Height of the ROI bounding box (in pixels)
+
+The relative area compared to the full camera frame is:
+
+```
+A_rel = A_ROI / A_frame = (x * y) / (W_frame * H_frame)
+```
+
+Where:
+
+* `W_frame`: Width of the camera frame (in pixels)
+* `H_frame`: Height of the camera frame (in pixels)
+
+The zoom adjustment logic is:
+
+* **Zoom In**: If `A_rel < A_min` ( `A_min`=0.50, indicating the LED array occupies less than 50% of the frame area), increase the zoom level:
+
+  ```
+  Z_new = Z_current + ∆Z
+  ```
+
+* **Zoom Out**: If `A_rel > A_max` (`A_max`=80, indicating the LED array exceeds 80% of the frame area), decrease the zoom level:
+
+  ```
+  Z_new = Z_current - ∆Z
+  ```
+
+* **No Adjustment**: If `A_min <= A_rel <= A_max`, keep the current zoom level.
+
+Where:
+
+* `∆Z`: A predefined zoom step (e.g., corresponding to a 30 ms motor pulse)
+* `A_min`, `A_max`: Thresholds defining the desired bounding box area (representing 50% and 80% of the frame area)
+
+---
+
+#### Focus Adjustment Based on Zoom
+
+The focus value is adjusted based on the new zoom level using a 5th-degree polynomial model:
+
+```
+F(Z_new) = a0 + a1 * Z_new + a2 * Z_new^2 + a3 * Z_new^3 + a4 * Z_new^4 + a5 * Z_new^5
+```
+
+Where:
+
+* `Z_new`: New zoom level after adjustment
+* `a0` to `a5`: Polynomial coefficients obtained via least squares fitting
+
+The focus motor is adjusted in 10 ms steps to reach `F(Z_new)`, ensuring the LED array remains in sharp focus.
+
+To reduce noise and avoid erratic zooming caused by fluctuating YOLO detections, a moving average filter is applied to `A_ROI`.
+
+---
+
+This approach ensures the LED array is maintained at an optimal size and centered in the frame, with focus dynamically adjusted to preserve image clarity. It enhances the stability and reliability of the Optical Camera Communication (OCC) link, particularly in high-mobility drone environments.
+
 
 ---
 
