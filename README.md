@@ -204,7 +204,7 @@ To reduce noise and avoid erratic zooming caused by fluctuating YOLO detections,
 
 ---
 
-This approach ensures the LED array is maintained at an optimal size and centered in the frame, with focus dynamically adjusted to preserve image clarity. It enhances the stability and reliability of the Optical Camera Communication (OCC) link, particularly in high-mobility drone environments.
+This approach ensures the LED array is maintained at an optimal size and centered in the frame, with zoom and focus dynamically adjusted to preserve image clarity. It enhances the stability and reliability of the Optical Camera Communication (OCC) link, particularly in high-mobility drone environments.
 
 
 ---
