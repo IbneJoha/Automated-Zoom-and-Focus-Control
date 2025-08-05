@@ -117,7 +117,6 @@ An R² value close to 1.0 indicates excellent model fit.
 5. **Predict focus** using a polynomial equation based on zoom and ROI information  
 6. **Adjust motors** in a stepwise manner according to the control logic  
 7. **Timeout** after 5 seconds if no convergence is achieved
-8. 
 
 ### 2.5 ROI Bounding Box Centering for Zoom and Focus Control
 
